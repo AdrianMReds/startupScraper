@@ -1,15 +1,8 @@
-# from lib2to3.pgen2 import driver
-# from optparse import Option
-# import time
-from logging.config import stopListening
-from traceback import print_list
 from tracemalloc import start
 from bs4 import BeautifulSoup
 
 from startup import Startup
 import requests
-# from selenium import webdriver
-# from selenium.webdriver.chrome.options import Options
 
 class Scraper:
 
@@ -23,8 +16,7 @@ class Scraper:
             print(lst[x])
 
 
-    def scrapeYC(self):
-        self.url = 'https://yclist.com/'
+    def scrapeYCFromFile(self):
 
         with open('batches.html', encoding='utf-8') as page:
             soup = BeautifulSoup(page, 'html.parser')
@@ -38,22 +30,36 @@ class Scraper:
                 info.append(sinfo)
             
             slist = []
-
             for i in info:
                 st = i.replace('\n', '')
-                st = st.replace(' ', '')
-                st = st.replace('|', ' ')
-                st = st.replace('  ', '.')
-                st = st.replace('....', ' ')
-                st = st.replace('..', ' ')
-                st = st.replace('.', ' ')
-                slist.append(st.strip(' '))
+                st = st.replace(' ', '.')
+                st = st.replace('.....................', '.')
+                st = st.replace('.................', '.')
+                st = st.replace('..', '.')
+                st = st.replace('...', '.')
+                st = st.replace('|', '')
+                st = st.replace('...', '$$')
+                slist.append(st)
 
             startups = []
 
             for i in slist:
-                startups.append(i.split())
+                startups.append(i.split('$$'))
 
-            self.printList(startups, 10)
+            topop = []
+            for s in startups:
+                for i in range(len(s)):
+                    if s[i] == '' or s[i] == '.':
+                        topop.append(i)
+                    else:
+                        s[i] = s[i].strip('.')
+                topop.reverse()
+                for t in topop:
+                    s.pop(t)
+                topop.clear()
 
-            # print(len(startups))
+                print(s[0], s[2], s[1], 'Y Combinator')
+
+                so = Startup(s[0], s[2], s[1], 'Y Combinator')
+
+            print(len(startups))
