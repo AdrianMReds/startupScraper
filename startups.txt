@@ -1,0 +1,545 @@
+['Terrace', 'Los.Angeles,.CA,.USA', 'Institutional-Grade.Trading.Solutions.for.DeFi', 'S22', 'Fintech', 'SaaS', 'DeFi', 'Crypto./.Web3']
+['Dev.Tools', 'San.Francisco,.CA,.USA', 'We.help.engineers.not.fix.broken.&.flaky.UI.tests', 'S22', 'Artifical.Intelligence', 'Developer.Tools', 'B2B', 'Productivity']
+['AccessOwl', 'Berlin,.Germany', 'Access.Management.for.SaaS.applications', 'S22', 'SaaS', 'B2B', 'Compliance']
+['Cone', 'Hyderabad,.Telangana,.India', 'Modern.finance.and.accounting.platform.for.business', 'S22', 'Fintech', 'SaaS', 'B2B']
+['Kamion', 'Ä°stanbul,.Turkey', 'Uber.for.Trucks.for.the.Turkish.Market', 'S22', 'Digital.Freight.Brokerage', 'B2B', 'Supply.Chain', 'Transportation']
+['Lancey', 'Toronto,.ON,.Canada', 'Helping.companies.build.great.demos', 'S22', 'SaaS', 'B2B', 'Sales', 'Enterprise']
+['Relevium', 'Galway,.Ireland', 'Develops.peptide.gel.based.biotherapeutics.for.painful.disorders', 'S22', 'Biotech', 'Healthcare', 'Therapeutics', 'Drug.discovery', 'Medical.Devices']
+['Krave.Mart', 'Karachi.City,.Sindh,.Pakistan', 'Your.daily.needs,.from.essentials.to.everything', 'S22', 'Grocery', 'Delivery', 'Consumer', 'E-commerce', 'Logistics']
+['Drahim.ðŸ’°', 'Riyadh.Saudi.Arabia', 'Meaningful.spending.insights.with.auto-investing', 'S22', 'Fintech', 'Investing', 'Analytics']
+['Polymer', 'San.Francisco,.CA,.USA', 'Optimal.prices,.revealed.by.real.customers', 'S22', 'SaaS', 'B2B', 'E-commerce', 'Enterprise']
+['UpLink', 'Palm.Beach.Gardens,.FL,.USA', 'Manage.Document.Requests.at.Scale', 'S22', 'SaaS', 'Documents', 'B2B', 'Collaboration', 'Productivity']
+['Drip', 'SÃ£o.Paulo,.State.of.SÃ£o.Paulo,.Brazil', 'We.help.Brazilians.shop.in.a.smarter.way', 'S22', 'Payments', 'Fintech', 'Consumer', 'B2B', 'Marketplace']
+['HOMLI', 'New.York,.NY,.USA', 'Sell,.rent,.and.buy.real.estate.in.Europe', 'S22']
+['Patika', 'Nairobi,.Kenya', 'Simple.Receivable.Automation.&.Payments.for.Africaâ€™s.Small.Businesses', 'S22', 'Fintech', 'B2B', 'Neobank']
+['Relate', 'San.Francisco,.CA,.USA', 'Simple.sales.CRM.for.startups.and.SMBs', 'S22', 'SaaS', 'Sales', 'B2B']
+['Relay', 'Salt.Lake.City,.UT,.USA', 'Peer.support.groups.to.overcome.addiction', 'S22', 'Mental.Health.Tech', 'Consumer', 'Health.Tech', 'Digital.Health']
+['Lamin.Labs', 'Munich,.Germany', 'Data.&.analysis.management.for.computational.biology', 'S22', 'Machine.Learning', 'Biotech', 'Data.Engineering']
+['Rampay', 'Global.payment.gateway.to.buy.and.sell.crypto.with.fiat', 'S22', 'Fintech', 'SaaS', 'Payments', 'DeFi', 'Crypto./.Web3']
+['Ruffo', 'San.Francisco,.CA,.USA', 'Cross-border.real.estate.transactions.made.easy', 'S22', 'Fintech', 'Documents', 'Proptech', 'LegalTech']
+['Ultimate.Tournament', 'Wilmington,.DE,.USA', 'Skill-based.online.arcade.where.you.play.and.compete.for.real.money', 'S22', 'Gaming']
+['Metriport', 'San.Francisco,.CA,.USA', 'Track.anything.and.gain.insights.into.your.health,.fitness,.and.more', 'S22', 'Artifical.Intelligence', 'Mental.Health.Tech', 'Fitness', 'Health.Tech', 'Digital.Health']
+['Cambio', 'Chicago,.IL,.USA', 'Credit.rebuilding.made.simple.and.affordable', 'S22', 'Fintech', 'Consumer']
+['Rampp.xyz', 'Los.Angeles,.CA,.USA', 'Launch.and.scale.an.NFT.community.without.code', 'S22', 'NFT', 'Crypto./.Web3', 'Creator.Economy']
+['Peoplebox', 'San.Francisco,.CA,.USA', 'Next-gen.OKR.&.Performance.Management.tool.for.hyper-growth.Startups', 'S22', 'SaaS', 'HR.Tech', 'B2B']
+['Zoltar.Labs', 'Mountain.View,.CA,.USA', 'Smart.contract.testing.and.deployment.made.faster', 'S22', 'Developer.Tools', 'Crypto./.Web3']
+['Shipmates', 'Makati,.Metro.Manila,.Philippines', 'Courier.aggregator.for.ecommerce.channels', 'S22']
+['Sytex', 'CÃ³rdoba,.Cordoba,.Argentina', 'Team.collaboration.platform.for.efficient.telecom.network.deployments', 'S22']
+['Provision', 'Toronto,.ON,.Canada', 'Document.intelligence.platform.for.the.construction.industry', 'S22', 'Machine.Learning', 'Documents', 'Construction', 'NLP', 'Productivity']
+['Pulppo', 'Mexico.City,.CDMX,.Mexico', 'We.are.empowering.brokers.to.improve.how.they.sell.homes', 'S22', 'Proptech', 'Real.Estate']
+['Typewise', 'ZÃ¼rich,.Switzerland', 'Boosting.customer.service.and.sales.productivity.by.2-3x', 'S22', 'Artifical.Intelligence', 'Machine.Learning', 'B2B', 'API', 'Productivity']
+['Ajourney', 'Singapore', 'Productivity.and.people.management.tool.for.managers', 'S22', 'SaaS', 'B2B', 'HR.Tech', 'Productivity']
+['Payload.CMS', 'Grand.Rapids,.MI,.USA', 'Developer-First.Headless.CMS.and.Application.Framework', 'S22', 'Developer.Tools', 'API', 'Open.Source']
+['Hello.Cognition', 'New.York,.NY,.USA', 'Next-generation.search.engine.for.software.developers', 'S22', 'Artifical.Intelligence', 'Generative.AI', 'Consumer']
+['Maverick.Bioworks', 'San.Francisco,.CA,.USA', 'Developing.custom.enzymes.for.industrial.&.manufacturing.partners', 'S22', 'Biotech', 'Genomics']
+['Apply.Design', 'Tel.Aviv-Yafo,.Israel', 'Automatically.create.amazing.property.listings', 'S22', 'Machine.Learning', 'SaaS', 'Computer.Vision', 'Real.Estate', 'Proptech']
+['Windmill', 'Paris,.France', 'Developer.platform.to.build.internal.apps.from.minimal.scripts', 'S22', 'B2B']
+['Disclo', 'Austin,.TX,.USA', 'Health.disclosure.and.accommodation.management.platform', 'S22', 'HR.Tech', 'Human.Resources', 'Compliance']
+['Tranch', 'London,.UK', 'Buy.Now.Pay.Later.for.B2B.businesses', 'S22', 'Fintech', 'SaaS']
+['Sunlight', 'Tel.Aviv-Yafo,.Israel', 'Plaid.for.the.Creator.Economy', 'S22', 'Fintech', 'B2B', 'API', 'Creator.Economy']
+['Novig', 'New.York,.NY,.USA', 'The.first.commission-free,.high-frequency.sports.betting.exchange', 'S22', 'Marketplace', 'Sports.Tech', 'Gaming']
+['NFT.Access', 'New.York,.NY,.USA', 'NFT.Event.Ticketing', 'S22', 'Crypto./.Web3', 'NFT']
+['Boostly', 'Orem,.UT,.USA', 'Automated.text.marketing.&.feedback.software.for.restaurants', 'S22', 'SaaS', 'B2B', 'Foodtech', 'Food.Tech']
+['BlueHill.Payments', 'San.Francisco,.CA,.USA', 'Expanding.Payment.Flexibility.and.Lowering.Rates.for.Merchants', 'S22', 'Payments', 'B2B', 'Fintech', 'SaaS', 'Analytics']
+['RootFi', 'Bengaluru,.Karnataka,.India', 'Operating.System.for.lending', 'S22', 'SaaS', 'Fintech', 'Banking.as.a.Service']
+['Fetii', 'Austin,.TX,.USA', 'Group.Rideshare.Platform', 'S22', 'Transportation', 'SaaS']
+['Paigo', 'San.Francisco,.CA,.USA', 'Intelligent.Billing.for.Data,.Infrastructure.and.Platform', 'S22', 'SaaS', 'Enterprise', 'Fintech']
+['Kapstar', 'Blumenau,.State.of.Santa.Catarina,.Brazil', 'Cross-Border.Payments', 'S22', 'Fintech', 'Payments', 'Crypto./.Web3']
+['TrueBiz', 'New.York,.NY,.USA', 'Verify.businesses.for.compliance.and.risk', 'S22', 'B2B', 'Fintech', 'Neobank', 'Identity', 'Regtech']
+['Alterya', 'Tel.Aviv-Yafo,.Israel', 'Plaid.for.DeFi', 'S22', 'Crypto./.Web3', 'Fintech', 'API', 'Analytics', 'SaaS']
+['erad', 'Riyadh.Saudi.Arabia', 'Growth.funding.for.online.businesses.in.the.Middle.East', 'S22']
+['Devyce', 'London,.UK', 'The.hybrid.phone.system.for.the.future.of.work', 'S22', 'SaaS', 'B2B', 'Messaging']
+['Tailor', 'Tokyo,.Japan', 'Headless.ERP.for.enterprises', 'S22', 'API', 'B2B', 'SaaS', 'Developer.Tools', 'Enterprise']
+['Levo.Financial', 'Salt.Lake.City,.UT,.USA', 'Spendable.Investment.Account', 'S22', 'Fintech', 'Consumer']
+['Stackup', 'Los.Angeles,.CA,.USA', 'A.wallet.that.makes.crypto.effortless', 'S22', 'Crypto./.Web3', 'Fintech']
+['Two.Dots', 'New.York,.NY,.USA', 'Universal.income.and.employment.verification', 'S22', 'Artifical.Intelligence', 'B2B', 'Fintech', 'Proptech']
+['PayO', 'Bengaluru,.Karnataka,.India', 'Mobile-first.Quickbooks.&.Square.for.Indian.SMEs', 'S22', 'Fintech', 'Neobank', 'Payments', 'SaaS', 'B2B']
+['Paces', 'New.York,.NY,.USA', 'Data.and.analytics.for.profitable.green.infrastructure', 'S22', 'Climate', 'Machine.Learning', 'Proptech', 'Energy']
+['Clinikally', 'Gurugram,.Haryana,.India', 'Telehealth.platform.&.Rx.grade.products.for.skin.&.hair.care.that.work', 'S22', 'Consumer.Health.Services', 'Telehealth', 'E-commerce', 'Digital.Health']
+['Coinbooks', 'San.Francisco,.CA,.USA', 'Intuit.for.Crypto.companies', 'S22', 'Fintech', 'Crypto./.Web3']
+['Albiware.Inc', 'Downers.Grove,.IL,.USA', 'Making.technology.simple.and.accessible.for.home.service.contractors', 'S22', 'Construction', 'Proptech']
+['SimpleHash..San.Francisco,.CA,.USA', 'Multi-chain.NFT.API', 'W22..Developer.Tools..SaaS..Crypto./.Web3..NFT']
+['BBy..New.York,.NY,.USA', "BBy.powders.breast.milk.that's.immunologically..active.&.lasts.6.months", 'W22..Health.Tech..Healthcare..Medical.Devices']
+['WhiteLab.Genomics..Paris,.France', 'Unleashing.the.potential.of.DNA.and.RNA.based..therapies.using.AI', 'W22..Genomics..Artifical.Intelligence..Gene.Therapy']
+['TradeX..Gurugram,.Haryana,.India', 'Exchange.to.trade.on.future.events', 'W22..Consumer..Gaming..Fintech']
+['Massdriver..Los.Angeles,.CA,.USA', 'Deploy.secure,.scalable.cloud.infrastructure.in..minutes.not.days', 'W22..Developer.Tools..DevSecOps..Kubernetes']
+['Reality.Defender..New.York,.NY,.USA', 'Enterprise.Deepfake.Detection', 'W22..Security..Privacy..Deepfake.Detection..Artifical.Intelligence..SaaS']
+['Lizza..Guadalajara,.Jalisco,.Mexico', 'Meesho.for.Latin.America', 'W22..Marketplace..SaaS..E-commerce']
+['Mono..Bogotá,.Bogota,.Colombia', "A.bank.account.that.integrates.LatAm.SMEs'.finances..and.operations", 'W22..Fintech..Neobank']
+['NFTScoring..New.York,.NY,.USA', 'NFT.Trading.Platform', 'W22..NFT']
+['CrediBook..Jakarta,.Indonesia', 'Faire.for.Indonesia', 'W22..E-commerce..B2B']
+['Remi.Labs..Salt.Lake.City,.UT,.USA', 'Everything.a.business.needs.to.launch.their.own..NFTs', 'W22..Crypto./.Web3..NFT']
+['Fresh.Factory..Jakarta,.Indonesia', 'Smart.Cold.Chain.Fulfillment.Platform', 'W22..Logistics..Warehouse.Management.Tech..B2B']
+['Onboard.io..Detroit,.MI,.USA', 'Manage.&.automate.customer.onboarding.and..implementation', 'W22..Customer.Success..B2B..SaaS..Collaboration..Productivity']
+['Seis..San.Francisco,.CA,.USA', 'Banking.100%.in.Spanish.for.the.44.million.US..Spanish.speakers', 'W22..Fintech..Neobank']
+['Bananas..Jakarta,.Indonesia', 'Groceries.delivered.in.10.mins', 'W22..Grocery..Delivery..E-commerce']
+['Eventual..San.Francisco,.CA,.USA', 'Data.Warehouse.for.Computer.Vision', 'W22..Data..Engineering..Machine.Learning..SaaS']
+['AiSupervision..Mannheim,.Germany', 'The.operating.system.for.factory.production..lines', 'W22']
+['Phoenix.Hydrogen..Berkeley,.CA,.USA', 'First.commodity.marketplace.for.hydrogen', 'W22..Climate..ClimateTech..Energy.Storage..Hydrogen.Energy..Marketplace']
+['Aigis..Jakarta,.Indonesia', 'Indonesian.digital.health.insurance.provider', 'W22..Health.Insurance..Telehealth..Fintech..Insurance']
+['Flike..San.Francisco,.CA,.USA', 'Effortlessly.Embed.Cutting-Edge.AI.Into.Your..Apps', 'W22..Machine.Learning..Artifical.Intelligence']
+['Alima..Mexico.City,.CDMX,.Mexico', 'Produce.procurement.made.easy', 'W22..B2B..Logistics']
+['Vecindario..Medellín,.Medellin,.Antioquia,.Colombia', 'We.make.it.easier.for.real.estate.to.sell.properties..and.mortgages', 'W22..Proptech..SaaS..Fintech']
+['Karate.Labs..Wilmington,.DE,.USA', 'Open-core.solution.unifying.API.&.UI.test..automation', 'W22..Developer.Tools..SaaS..API']
+['HippoBuild..Bogotá,.Bogota,.Colombia', 'The.Operating.System.of.the.construction..industry', 'W22']
+['Pantore..São.Paulo,.State.of.São.Paulo,.Brazil', 'Platform.for.restaurants.to.order.groceries.in..Brazil', 'W22..Marketplace..Foodtech']
+['beU.delivery..Addis.Ababa,.Ethiopia', 'Food.delivery.service.in.Africa', 'W22..Foodtech..Delivery..Logistics']
+['GAVEL..Berlin,.Germany', 'Live.shopping.marketplace', 'W22..Marketplace..Community..E-commerce']
+['Cofactr..New.York,.NY,.USA', 'The.automated.electronics.supply.chain.platform.for..hardware.teams', 'W22..Hardware..Logistics..B2B']
+['SixWheel..San.Mateo,.CA,.USA', 'Make.diesel.semi.trucks.hybrid-electric', 'W22..Climate..Electric.Vehicles..Logistics']
+['KorrAI..Halifax.Regional.Municipality,.NS,.Canada', 'Digital.twins.for.the.natural.resources..sector', 'W22..Artifical.Intelligence..Climate']
+['Pina.Earth..Munich,.Germany', 'Unlocking.carbon.markets.for.European.forest..owners', 'W22']
+['Beyond.Aero..Toulouse,.France', 'Zero-emission.private.aircraft.using..hydrogen-electric.propulsion', 'W22..Airplanes..Climate..Hydrogen.Energy..Air.Taxis..Electric.Vehicles']
+['Realize..New.York,.NY,.USA', 'Connect.investment.accounts.to.your.app', 'W22..Investing..Fintech..API..Developer.Tools']
+['Origami.Therapeutics,.Inc..San.Diego,.CA,.USA', 'Oral.drugs.to.halt.neurodegeneration', 'W22..Biotech..Therapeutics..Drug.discovery']
+['Cinapse..Los.Angeles,.CA,.USA', 'The.Operating.System.of.Hollywood', 'W22..B2B..Entertainment..Productivity..SaaS..Enterprise']
+['AirMyne..Berkeley,.CA,.USA', 'CO2.removal.from.air.at.industrial.scale', 'W22..Carbon.Capture.and.Removal..Climate..Hardware..Hard.Tech']
+['CloudEagle.ai..Palo.Alto,.CA,.USA', 'SaaS.Research.and.Procurement.Platform', 'W22..SaaS..Artifical.Intelligence..Productivity']
+['Mooji.Meats..Baltimore,.MD,.USA', 'Enabling.the.next.generation.of.alternative..meats', 'W22..Climate..Cultured.Meat..Clean.Meat']
+['Poko..Singapore', 'Replace.Traditional.Companies.with.DAOs..Globally', 'W22..Crypto./.Web3..DAO..Developer.Tools..NFT..Community']
+['GoSats..Bengaluru,.Karnataka,.India', 'GoSats.helps.you.earn.free.bitcoin.when.you.shop.in..India', 'W22..DeFi..Crypto./.Web3..Fintech..Payments..E-commerce']
+['Glocally..Munich,.Germany', 'The.last.mile.delivery.service.for.e-commerce..businesses.in.Europe', 'W22..Logistics..Retail..E-commerce']
+['Deall.Jobs..Jakarta,.Indonesia', 'Career.portal,.revolutionized', 'W22..Recruiting..HR.Tech..B2B..SaaS']
+['Impossible.Mining..San.Jose,.CA,.USA', 'Underwater.robotic.vehicles.that.collect.battery..metals.responsibly', 'W22..Robotics..Climate..Electric.Vehicles']
+['Trusty..San.Francisco,.CA,.USA', 'Private.MLS.for.off-market.real.estate', 'W22..Proptech..Real.Estate..Marketplace']
+['Syncware', 'Helping.warehouses.optimize.operations.with.AI', 'W22..Warehouse.Management.Tech..Artifical.Intelligence..IoT..SaaS..B2B']
+['TAI..San.Francisco,.CA,.USA', 'Control.All.of.Your.Investments.from.a.Single..App', 'W22..Consumer..Investing..Fintech']
+['Circular..Singapore', 'Subscription.consumer.electronics.for.Asia', 'W22..Consumer..Marketplace..Fintech..E-commerce']
+['Powerhouse.AI..Singapore', 'Automating.warehouse.inventory.checks,.with.a..phone', 'W22..Warehouse.Management.Tech..SaaS..Logistics']
+['HelloGuru..San.Francisco,.CA,.USA', 'Sync.data.from.data.warehouses.to.business..systems', 'W22..Data..Engineering..SaaS']
+Terrace || Los.Angeles,.CA,.USA || Institutional-Grade.Trading.Solutions.for.DeFi || S22 || Fintech || SaaS || DeFi || Crypto./.Web3 || 
+Dev.Tools || San.Francisco,.CA,.USA || We.help.engineers.not.fix.broken.&.flaky.UI.tests || S22 || Artifical.Intelligence || Developer.Tools || B2B || Productivity || 
+AccessOwl || Berlin,.Germany || Access.Management.for.SaaS.applications || S22 || SaaS || B2B || Compliance || 
+Cone || Hyderabad,.Telangana,.India || Modern.finance.and.accounting.platform.for.business || S22 || Fintech || SaaS || B2B || 
+Kamion || Ä°stanbul,.Turkey || Uber.for.Trucks.for.the.Turkish.Market || S22 || Digital.Freight.Brokerage || B2B || Supply.Chain || Transportation || 
+Lancey || Toronto,.ON,.Canada || Helping.companies.build.great.demos || S22 || SaaS || B2B || Sales || Enterprise || 
+Relevium || Galway,.Ireland || Develops.peptide.gel.based.biotherapeutics.for.painful.disorders || S22 || Biotech || Healthcare || Therapeutics || Drug.discovery || Medical.Devices || 
+Krave.Mart || Karachi.City,.Sindh,.Pakistan || Your.daily.needs,.from.essentials.to.everything || S22 || Grocery || Delivery || Consumer || E-commerce || Logistics || 
+Drahim.ðŸ’° || Riyadh.Saudi.Arabia || Meaningful.spending.insights.with.auto-investing || S22 || Fintech || Investing || Analytics || 
+Polymer || San.Francisco,.CA,.USA || Optimal.prices,.revealed.by.real.customers || S22 || SaaS || B2B || E-commerce || Enterprise || 
+UpLink || Palm.Beach.Gardens,.FL,.USA || Manage.Document.Requests.at.Scale || S22 || SaaS || Documents || B2B || Collaboration || Productivity || 
+Drip || SÃ£o.Paulo,.State.of.SÃ£o.Paulo,.Brazil || We.help.Brazilians.shop.in.a.smarter.way || S22 || Payments || Fintech || Consumer || B2B || Marketplace || 
+HOMLI || New.York,.NY,.USA || Sell,.rent,.and.buy.real.estate.in.Europe || S22 || 
+Patika || Nairobi,.Kenya || Simple.Receivable.Automation.&.Payments.for.Africaâ€™s.Small.Businesses || S22 || Fintech || B2B || Neobank || 
+Relate || San.Francisco,.CA,.USA || Simple.sales.CRM.for.startups.and.SMBs || S22 || SaaS || Sales || B2B || 
+Relay || Salt.Lake.City,.UT,.USA || Peer.support.groups.to.overcome.addiction || S22 || Mental.Health.Tech || Consumer || Health.Tech || Digital.Health || 
+Lamin.Labs || Munich,.Germany || Data.&.analysis.management.for.computational.biology || S22 || Machine.Learning || Biotech || Data.Engineering || 
+Rampay || Global.payment.gateway.to.buy.and.sell.crypto.with.fiat || S22 || Fintech || SaaS || Payments || DeFi || Crypto./.Web3 || 
+Ruffo || San.Francisco,.CA,.USA || Cross-border.real.estate.transactions.made.easy || S22 || Fintech || Documents || Proptech || LegalTech || 
+Ultimate.Tournament || Wilmington,.DE,.USA || Skill-based.online.arcade.where.you.play.and.compete.for.real.money || S22 || Gaming || 
+Metriport || San.Francisco,.CA,.USA || Track.anything.and.gain.insights.into.your.health,.fitness,.and.more || S22 || Artifical.Intelligence || Mental.Health.Tech || Fitness || Health.Tech || Digital.Health || 
+Cambio || Chicago,.IL,.USA || Credit.rebuilding.made.simple.and.affordable || S22 || Fintech || Consumer || 
+Rampp.xyz || Los.Angeles,.CA,.USA || Launch.and.scale.an.NFT.community.without.code || S22 || NFT || Crypto./.Web3 || Creator.Economy || 
+Peoplebox || San.Francisco,.CA,.USA || Next-gen.OKR.&.Performance.Management.tool.for.hyper-growth.Startups || S22 || SaaS || HR.Tech || B2B || 
+Zoltar.Labs || Mountain.View,.CA,.USA || Smart.contract.testing.and.deployment.made.faster || S22 || Developer.Tools || Crypto./.Web3 || 
+Shipmates || Makati,.Metro.Manila,.Philippines || Courier.aggregator.for.ecommerce.channels || S22 || 
+Sytex || CÃ³rdoba,.Cordoba,.Argentina || Team.collaboration.platform.for.efficient.telecom.network.deployments || S22 || 
+Provision || Toronto,.ON,.Canada || Document.intelligence.platform.for.the.construction.industry || S22 || Machine.Learning || Documents || Construction || NLP || Productivity || 
+Pulppo || Mexico.City,.CDMX,.Mexico || We.are.empowering.brokers.to.improve.how.they.sell.homes || S22 || Proptech || Real.Estate || 
+Typewise || ZÃ¼rich,.Switzerland || Boosting.customer.service.and.sales.productivity.by.2-3x || S22 || Artifical.Intelligence || Machine.Learning || B2B || API || Productivity || 
+Ajourney || Singapore || Productivity.and.people.management.tool.for.managers || S22 || SaaS || B2B || HR.Tech || Productivity || 
+Payload.CMS || Grand.Rapids,.MI,.USA || Developer-First.Headless.CMS.and.Application.Framework || S22 || Developer.Tools || API || Open.Source || 
+Hello.Cognition || New.York,.NY,.USA || Next-generation.search.engine.for.software.developers || S22 || Artifical.Intelligence || Generative.AI || Consumer || 
+Maverick.Bioworks || San.Francisco,.CA,.USA || Developing.custom.enzymes.for.industrial.&.manufacturing.partners || S22 || Biotech || Genomics || 
+Apply.Design || Tel.Aviv-Yafo,.Israel || Automatically.create.amazing.property.listings || S22 || Machine.Learning || SaaS || Computer.Vision || Real.Estate || Proptech || 
+Windmill || Paris,.France || Developer.platform.to.build.internal.apps.from.minimal.scripts || S22 || B2B || 
+Disclo || Austin,.TX,.USA || Health.disclosure.and.accommodation.management.platform || S22 || HR.Tech || Human.Resources || Compliance || 
+Tranch || London,.UK || Buy.Now.Pay.Later.for.B2B.businesses || S22 || Fintech || SaaS || 
+Sunlight || Tel.Aviv-Yafo,.Israel || Plaid.for.the.Creator.Economy || S22 || Fintech || B2B || API || Creator.Economy || 
+Novig || New.York,.NY,.USA || The.first.commission-free,.high-frequency.sports.betting.exchange || S22 || Marketplace || Sports.Tech || Gaming || 
+NFT.Access || New.York,.NY,.USA || NFT.Event.Ticketing || S22 || Crypto./.Web3 || NFT || 
+Boostly || Orem,.UT,.USA || Automated.text.marketing.&.feedback.software.for.restaurants || S22 || SaaS || B2B || Foodtech || Food.Tech || 
+BlueHill.Payments || San.Francisco,.CA,.USA || Expanding.Payment.Flexibility.and.Lowering.Rates.for.Merchants || S22 || Payments || B2B || Fintech || SaaS || Analytics || 
+RootFi || Bengaluru,.Karnataka,.India || Operating.System.for.lending || S22 || SaaS || Fintech || Banking.as.a.Service || 
+Fetii || Austin,.TX,.USA || Group.Rideshare.Platform || S22 || Transportation || SaaS || 
+Paigo || San.Francisco,.CA,.USA || Intelligent.Billing.for.Data,.Infrastructure.and.Platform || S22 || SaaS || Enterprise || Fintech || 
+Kapstar || Blumenau,.State.of.Santa.Catarina,.Brazil || Cross-Border.Payments || S22 || Fintech || Payments || Crypto./.Web3 || 
+TrueBiz || New.York,.NY,.USA || Verify.businesses.for.compliance.and.risk || S22 || B2B || Fintech || Neobank || Identity || Regtech || 
+Alterya || Tel.Aviv-Yafo,.Israel || Plaid.for.DeFi || S22 || Crypto./.Web3 || Fintech || API || Analytics || SaaS || 
+erad || Riyadh.Saudi.Arabia || Growth.funding.for.online.businesses.in.the.Middle.East || S22 || 
+Devyce || London,.UK || The.hybrid.phone.system.for.the.future.of.work || S22 || SaaS || B2B || Messaging || 
+Tailor || Tokyo,.Japan || Headless.ERP.for.enterprises || S22 || API || B2B || SaaS || Developer.Tools || Enterprise || 
+Levo.Financial || Salt.Lake.City,.UT,.USA || Spendable.Investment.Account || S22 || Fintech || Consumer || 
+Stackup || Los.Angeles,.CA,.USA || A.wallet.that.makes.crypto.effortless || S22 || Crypto./.Web3 || Fintech || 
+Two.Dots || New.York,.NY,.USA || Universal.income.and.employment.verification || S22 || Artifical.Intelligence || B2B || Fintech || Proptech || 
+PayO || Bengaluru,.Karnataka,.India || Mobile-first.Quickbooks.&.Square.for.Indian.SMEs || S22 || Fintech || Neobank || Payments || SaaS || B2B || 
+Paces || New.York,.NY,.USA || Data.and.analytics.for.profitable.green.infrastructure || S22 || Climate || Machine.Learning || Proptech || Energy || 
+Clinikally || Gurugram,.Haryana,.India || Telehealth.platform.&.Rx.grade.products.for.skin.&.hair.care.that.work || S22 || Consumer.Health.Services || Telehealth || E-commerce || Digital.Health || 
+Coinbooks || San.Francisco,.CA,.USA || Intuit.for.Crypto.companies || S22 || Fintech || Crypto./.Web3 || 
+Albiware.Inc || Downers.Grove,.IL,.USA || Making.technology.simple.and.accessible.for.home.service.contractors || S22 || Construction || Proptech || 
+SimpleHash..San.Francisco,.CA,.USA || Multi-chain.NFT.API || W22..Developer.Tools..SaaS..Crypto./.Web3..NFT || 
+BBy..New.York,.NY,.USA || BBy.powders.breast.milk.that's.immunologically..active.&.lasts.6.months || W22..Health.Tech..Healthcare..Medical.Devices || 
+WhiteLab.Genomics..Paris,.France || Unleashing.the.potential.of.DNA.and.RNA.based..therapies.using.AI || W22..Genomics..Artifical.Intelligence..Gene.Therapy || 
+TradeX..Gurugram,.Haryana,.India || Exchange.to.trade.on.future.events || W22..Consumer..Gaming..Fintech || 
+Massdriver..Los.Angeles,.CA,.USA || Deploy.secure,.scalable.cloud.infrastructure.in..minutes.not.days || W22..Developer.Tools..DevSecOps..Kubernetes || 
+Reality.Defender..New.York,.NY,.USA || Enterprise.Deepfake.Detection || W22..Security..Privacy..Deepfake.Detection..Artifical.Intelligence..SaaS || 
+Lizza..Guadalajara,.Jalisco,.Mexico || Meesho.for.Latin.America || W22..Marketplace..SaaS..E-commerce || 
+Mono..Bogotá,.Bogota,.Colombia || A.bank.account.that.integrates.LatAm.SMEs'.finances..and.operations || W22..Fintech..Neobank || 
+NFTScoring..New.York,.NY,.USA || NFT.Trading.Platform || W22..NFT || 
+CrediBook..Jakarta,.Indonesia || Faire.for.Indonesia || W22..E-commerce..B2B || 
+Remi.Labs..Salt.Lake.City,.UT,.USA || Everything.a.business.needs.to.launch.their.own..NFTs || W22..Crypto./.Web3..NFT || 
+Fresh.Factory..Jakarta,.Indonesia || Smart.Cold.Chain.Fulfillment.Platform || W22..Logistics..Warehouse.Management.Tech..B2B || 
+Onboard.io..Detroit,.MI,.USA || Manage.&.automate.customer.onboarding.and..implementation || W22..Customer.Success..B2B..SaaS..Collaboration..Productivity || 
+Seis..San.Francisco,.CA,.USA || Banking.100%.in.Spanish.for.the.44.million.US..Spanish.speakers || W22..Fintech..Neobank || 
+Bananas..Jakarta,.Indonesia || Groceries.delivered.in.10.mins || W22..Grocery..Delivery..E-commerce || 
+Eventual..San.Francisco,.CA,.USA || Data.Warehouse.for.Computer.Vision || W22..Data..Engineering..Machine.Learning..SaaS || 
+AiSupervision..Mannheim,.Germany || The.operating.system.for.factory.production..lines || W22 || 
+Phoenix.Hydrogen..Berkeley,.CA,.USA || First.commodity.marketplace.for.hydrogen || W22..Climate..ClimateTech..Energy.Storage..Hydrogen.Energy..Marketplace || 
+Aigis..Jakarta,.Indonesia || Indonesian.digital.health.insurance.provider || W22..Health.Insurance..Telehealth..Fintech..Insurance || 
+Flike..San.Francisco,.CA,.USA || Effortlessly.Embed.Cutting-Edge.AI.Into.Your..Apps || W22..Machine.Learning..Artifical.Intelligence || 
+Alima..Mexico.City,.CDMX,.Mexico || Produce.procurement.made.easy || W22..B2B..Logistics || 
+Vecindario..Medellín,.Medellin,.Antioquia,.Colombia || We.make.it.easier.for.real.estate.to.sell.properties..and.mortgages || W22..Proptech..SaaS..Fintech || 
+Karate.Labs..Wilmington,.DE,.USA || Open-core.solution.unifying.API.&.UI.test..automation || W22..Developer.Tools..SaaS..API || 
+HippoBuild..Bogotá,.Bogota,.Colombia || The.Operating.System.of.the.construction..industry || W22 || 
+Pantore..São.Paulo,.State.of.São.Paulo,.Brazil || Platform.for.restaurants.to.order.groceries.in..Brazil || W22..Marketplace..Foodtech || 
+beU.delivery..Addis.Ababa,.Ethiopia || Food.delivery.service.in.Africa || W22..Foodtech..Delivery..Logistics || 
+GAVEL..Berlin,.Germany || Live.shopping.marketplace || W22..Marketplace..Community..E-commerce || 
+Cofactr..New.York,.NY,.USA || The.automated.electronics.supply.chain.platform.for..hardware.teams || W22..Hardware..Logistics..B2B || 
+SixWheel..San.Mateo,.CA,.USA || Make.diesel.semi.trucks.hybrid-electric || W22..Climate..Electric.Vehicles..Logistics || 
+KorrAI..Halifax.Regional.Municipality,.NS,.Canada || Digital.twins.for.the.natural.resources..sector || W22..Artifical.Intelligence..Climate || 
+Pina.Earth..Munich,.Germany || Unlocking.carbon.markets.for.European.forest..owners || W22 || 
+Beyond.Aero..Toulouse,.France || Zero-emission.private.aircraft.using..hydrogen-electric.propulsion || W22..Airplanes..Climate..Hydrogen.Energy..Air.Taxis..Electric.Vehicles || 
+Realize..New.York,.NY,.USA || Connect.investment.accounts.to.your.app || W22..Investing..Fintech..API..Developer.Tools || 
+Origami.Therapeutics,.Inc..San.Diego,.CA,.USA || Oral.drugs.to.halt.neurodegeneration || W22..Biotech..Therapeutics..Drug.discovery || 
+Cinapse..Los.Angeles,.CA,.USA || The.Operating.System.of.Hollywood || W22..B2B..Entertainment..Productivity..SaaS..Enterprise || 
+AirMyne..Berkeley,.CA,.USA || CO2.removal.from.air.at.industrial.scale || W22..Carbon.Capture.and.Removal..Climate..Hardware..Hard.Tech || 
+CloudEagle.ai..Palo.Alto,.CA,.USA || SaaS.Research.and.Procurement.Platform || W22..SaaS..Artifical.Intelligence..Productivity || 
+Mooji.Meats..Baltimore,.MD,.USA || Enabling.the.next.generation.of.alternative..meats || W22..Climate..Cultured.Meat..Clean.Meat || 
+Poko..Singapore || Replace.Traditional.Companies.with.DAOs..Globally || W22..Crypto./.Web3..DAO..Developer.Tools..NFT..Community || 
+GoSats..Bengaluru,.Karnataka,.India || GoSats.helps.you.earn.free.bitcoin.when.you.shop.in..India || W22..DeFi..Crypto./.Web3..Fintech..Payments..E-commerce || 
+Glocally..Munich,.Germany || The.last.mile.delivery.service.for.e-commerce..businesses.in.Europe || W22..Logistics..Retail..E-commerce || 
+Deall.Jobs..Jakarta,.Indonesia || Career.portal,.revolutionized || W22..Recruiting..HR.Tech..B2B..SaaS || 
+Impossible.Mining..San.Jose,.CA,.USA || Underwater.robotic.vehicles.that.collect.battery..metals.responsibly || W22..Robotics..Climate..Electric.Vehicles || 
+Trusty..San.Francisco,.CA,.USA || Private.MLS.for.off-market.real.estate || W22..Proptech..Real.Estate..Marketplace || 
+Syncware || Helping.warehouses.optimize.operations.with.AI || W22..Warehouse.Management.Tech..Artifical.Intelligence..IoT..SaaS..B2B || 
+TAI..San.Francisco,.CA,.USA || Control.All.of.Your.Investments.from.a.Single..App || W22..Consumer..Investing..Fintech || 
+Circular..Singapore || Subscription.consumer.electronics.for.Asia || W22..Consumer..Marketplace..Fintech..E-commerce || 
+Powerhouse.AI..Singapore || Automating.warehouse.inventory.checks,.with.a..phone || W22..Warehouse.Management.Tech..SaaS..Logistics || 
+HelloGuru..San.Francisco,.CA,.USA || Sync.data.from.data.warehouses.to.business..systems || W22..Data..Engineering..SaaS || 
+Terrace||Los.Angeles,.CA,.USA||Institutional-Grade.Trading.Solutions.for.DeFi||S22||Fintech||SaaS||DeFi||Crypto./.Web3
+Dev.Tools||San.Francisco,.CA,.USA||We.help.engineers.not.fix.broken.&.flaky.UI.tests||S22||Artifical.Intelligence||Developer.Tools||B2B||Productivity
+AccessOwl||Berlin,.Germany||Access.Management.for.SaaS.applications||S22||SaaS||B2B||Compliance
+Cone||Hyderabad,.Telangana,.India||Modern.finance.and.accounting.platform.for.business||S22||Fintech||SaaS||B2B
+Kamion||Ä°stanbul,.Turkey||Uber.for.Trucks.for.the.Turkish.Market||S22||Digital.Freight.Brokerage||B2B||Supply.Chain||Transportation
+Lancey||Toronto,.ON,.Canada||Helping.companies.build.great.demos||S22||SaaS||B2B||Sales||Enterprise
+Relevium||Galway,.Ireland||Develops.peptide.gel.based.biotherapeutics.for.painful.disorders||S22||Biotech||Healthcare||Therapeutics||Drug.discovery||Medical.Devices
+Krave.Mart||Karachi.City,.Sindh,.Pakistan||Your.daily.needs,.from.essentials.to.everything||S22||Grocery||Delivery||Consumer||E-commerce||Logistics
+Drahim.ðŸ’°||Riyadh.Saudi.Arabia||Meaningful.spending.insights.with.auto-investing||S22||Fintech||Investing||Analytics
+Polymer||San.Francisco,.CA,.USA||Optimal.prices,.revealed.by.real.customers||S22||SaaS||B2B||E-commerce||Enterprise
+UpLink||Palm.Beach.Gardens,.FL,.USA||Manage.Document.Requests.at.Scale||S22||SaaS||Documents||B2B||Collaboration||Productivity
+Drip||SÃ£o.Paulo,.State.of.SÃ£o.Paulo,.Brazil||We.help.Brazilians.shop.in.a.smarter.way||S22||Payments||Fintech||Consumer||B2B||Marketplace
+HOMLI||New.York,.NY,.USA||Sell,.rent,.and.buy.real.estate.in.Europe||S22
+Patika||Nairobi,.Kenya||Simple.Receivable.Automation.&.Payments.for.Africaâ€™s.Small.Businesses||S22||Fintech||B2B||Neobank
+Relate||San.Francisco,.CA,.USA||Simple.sales.CRM.for.startups.and.SMBs||S22||SaaS||Sales||B2B
+Relay||Salt.Lake.City,.UT,.USA||Peer.support.groups.to.overcome.addiction||S22||Mental.Health.Tech||Consumer||Health.Tech||Digital.Health
+Lamin.Labs||Munich,.Germany||Data.&.analysis.management.for.computational.biology||S22||Machine.Learning||Biotech||Data.Engineering
+Rampay||Global.payment.gateway.to.buy.and.sell.crypto.with.fiat||S22||Fintech||SaaS||Payments||DeFi||Crypto./.Web3
+Ruffo||San.Francisco,.CA,.USA||Cross-border.real.estate.transactions.made.easy||S22||Fintech||Documents||Proptech||LegalTech
+Ultimate.Tournament||Wilmington,.DE,.USA||Skill-based.online.arcade.where.you.play.and.compete.for.real.money||S22||Gaming
+Metriport||San.Francisco,.CA,.USA||Track.anything.and.gain.insights.into.your.health,.fitness,.and.more||S22||Artifical.Intelligence||Mental.Health.Tech||Fitness||Health.Tech||Digital.Health
+Cambio||Chicago,.IL,.USA||Credit.rebuilding.made.simple.and.affordable||S22||Fintech||Consumer
+Rampp.xyz||Los.Angeles,.CA,.USA||Launch.and.scale.an.NFT.community.without.code||S22||NFT||Crypto./.Web3||Creator.Economy
+Peoplebox||San.Francisco,.CA,.USA||Next-gen.OKR.&.Performance.Management.tool.for.hyper-growth.Startups||S22||SaaS||HR.Tech||B2B
+Zoltar.Labs||Mountain.View,.CA,.USA||Smart.contract.testing.and.deployment.made.faster||S22||Developer.Tools||Crypto./.Web3
+Shipmates||Makati,.Metro.Manila,.Philippines||Courier.aggregator.for.ecommerce.channels||S22
+Sytex||CÃ³rdoba,.Cordoba,.Argentina||Team.collaboration.platform.for.efficient.telecom.network.deployments||S22
+Provision||Toronto,.ON,.Canada||Document.intelligence.platform.for.the.construction.industry||S22||Machine.Learning||Documents||Construction||NLP||Productivity
+Pulppo||Mexico.City,.CDMX,.Mexico||We.are.empowering.brokers.to.improve.how.they.sell.homes||S22||Proptech||Real.Estate
+Typewise||ZÃ¼rich,.Switzerland||Boosting.customer.service.and.sales.productivity.by.2-3x||S22||Artifical.Intelligence||Machine.Learning||B2B||API||Productivity
+Ajourney||Singapore||Productivity.and.people.management.tool.for.managers||S22||SaaS||B2B||HR.Tech||Productivity
+Payload.CMS||Grand.Rapids,.MI,.USA||Developer-First.Headless.CMS.and.Application.Framework||S22||Developer.Tools||API||Open.Source
+Hello.Cognition||New.York,.NY,.USA||Next-generation.search.engine.for.software.developers||S22||Artifical.Intelligence||Generative.AI||Consumer
+Maverick.Bioworks||San.Francisco,.CA,.USA||Developing.custom.enzymes.for.industrial.&.manufacturing.partners||S22||Biotech||Genomics
+Apply.Design||Tel.Aviv-Yafo,.Israel||Automatically.create.amazing.property.listings||S22||Machine.Learning||SaaS||Computer.Vision||Real.Estate||Proptech
+Windmill||Paris,.France||Developer.platform.to.build.internal.apps.from.minimal.scripts||S22||B2B
+Disclo||Austin,.TX,.USA||Health.disclosure.and.accommodation.management.platform||S22||HR.Tech||Human.Resources||Compliance
+Tranch||London,.UK||Buy.Now.Pay.Later.for.B2B.businesses||S22||Fintech||SaaS
+Sunlight||Tel.Aviv-Yafo,.Israel||Plaid.for.the.Creator.Economy||S22||Fintech||B2B||API||Creator.Economy
+Novig||New.York,.NY,.USA||The.first.commission-free,.high-frequency.sports.betting.exchange||S22||Marketplace||Sports.Tech||Gaming
+NFT.Access||New.York,.NY,.USA||NFT.Event.Ticketing||S22||Crypto./.Web3||NFT
+Boostly||Orem,.UT,.USA||Automated.text.marketing.&.feedback.software.for.restaurants||S22||SaaS||B2B||Foodtech||Food.Tech
+BlueHill.Payments||San.Francisco,.CA,.USA||Expanding.Payment.Flexibility.and.Lowering.Rates.for.Merchants||S22||Payments||B2B||Fintech||SaaS||Analytics
+RootFi||Bengaluru,.Karnataka,.India||Operating.System.for.lending||S22||SaaS||Fintech||Banking.as.a.Service
+Fetii||Austin,.TX,.USA||Group.Rideshare.Platform||S22||Transportation||SaaS
+Paigo||San.Francisco,.CA,.USA||Intelligent.Billing.for.Data,.Infrastructure.and.Platform||S22||SaaS||Enterprise||Fintech
+Kapstar||Blumenau,.State.of.Santa.Catarina,.Brazil||Cross-Border.Payments||S22||Fintech||Payments||Crypto./.Web3
+TrueBiz||New.York,.NY,.USA||Verify.businesses.for.compliance.and.risk||S22||B2B||Fintech||Neobank||Identity||Regtech
+Alterya||Tel.Aviv-Yafo,.Israel||Plaid.for.DeFi||S22||Crypto./.Web3||Fintech||API||Analytics||SaaS
+erad||Riyadh.Saudi.Arabia||Growth.funding.for.online.businesses.in.the.Middle.East||S22
+Devyce||London,.UK||The.hybrid.phone.system.for.the.future.of.work||S22||SaaS||B2B||Messaging
+Tailor||Tokyo,.Japan||Headless.ERP.for.enterprises||S22||API||B2B||SaaS||Developer.Tools||Enterprise
+Levo.Financial||Salt.Lake.City,.UT,.USA||Spendable.Investment.Account||S22||Fintech||Consumer
+Stackup||Los.Angeles,.CA,.USA||A.wallet.that.makes.crypto.effortless||S22||Crypto./.Web3||Fintech
+Two.Dots||New.York,.NY,.USA||Universal.income.and.employment.verification||S22||Artifical.Intelligence||B2B||Fintech||Proptech
+PayO||Bengaluru,.Karnataka,.India||Mobile-first.Quickbooks.&.Square.for.Indian.SMEs||S22||Fintech||Neobank||Payments||SaaS||B2B
+Paces||New.York,.NY,.USA||Data.and.analytics.for.profitable.green.infrastructure||S22||Climate||Machine.Learning||Proptech||Energy
+Clinikally||Gurugram,.Haryana,.India||Telehealth.platform.&.Rx.grade.products.for.skin.&.hair.care.that.work||S22||Consumer.Health.Services||Telehealth||E-commerce||Digital.Health
+Coinbooks||San.Francisco,.CA,.USA||Intuit.for.Crypto.companies||S22||Fintech||Crypto./.Web3
+Albiware.Inc||Downers.Grove,.IL,.USA||Making.technology.simple.and.accessible.for.home.service.contractors||S22||Construction||Proptech
+SimpleHash..San.Francisco,.CA,.USA||Multi-chain.NFT.API||W22..Developer.Tools..SaaS..Crypto./.Web3..NFT
+BBy..New.York,.NY,.USA||BBy.powders.breast.milk.that's.immunologically..active.&.lasts.6.months||W22..Health.Tech..Healthcare..Medical.Devices
+WhiteLab.Genomics..Paris,.France||Unleashing.the.potential.of.DNA.and.RNA.based..therapies.using.AI||W22..Genomics..Artifical.Intelligence..Gene.Therapy
+TradeX..Gurugram,.Haryana,.India||Exchange.to.trade.on.future.events||W22..Consumer..Gaming..Fintech
+Massdriver..Los.Angeles,.CA,.USA||Deploy.secure,.scalable.cloud.infrastructure.in..minutes.not.days||W22..Developer.Tools..DevSecOps..Kubernetes
+Reality.Defender..New.York,.NY,.USA||Enterprise.Deepfake.Detection||W22..Security..Privacy..Deepfake.Detection..Artifical.Intelligence..SaaS
+Lizza..Guadalajara,.Jalisco,.Mexico||Meesho.for.Latin.America||W22..Marketplace..SaaS..E-commerce
+Mono..Bogotá,.Bogota,.Colombia||A.bank.account.that.integrates.LatAm.SMEs'.finances..and.operations||W22..Fintech..Neobank
+NFTScoring..New.York,.NY,.USA||NFT.Trading.Platform||W22..NFT
+CrediBook..Jakarta,.Indonesia||Faire.for.Indonesia||W22..E-commerce..B2B
+Remi.Labs..Salt.Lake.City,.UT,.USA||Everything.a.business.needs.to.launch.their.own..NFTs||W22..Crypto./.Web3..NFT
+Fresh.Factory..Jakarta,.Indonesia||Smart.Cold.Chain.Fulfillment.Platform||W22..Logistics..Warehouse.Management.Tech..B2B
+Onboard.io..Detroit,.MI,.USA||Manage.&.automate.customer.onboarding.and..implementation||W22..Customer.Success..B2B..SaaS..Collaboration..Productivity
+Seis..San.Francisco,.CA,.USA||Banking.100%.in.Spanish.for.the.44.million.US..Spanish.speakers||W22..Fintech..Neobank
+Bananas..Jakarta,.Indonesia||Groceries.delivered.in.10.mins||W22..Grocery..Delivery..E-commerce
+Eventual..San.Francisco,.CA,.USA||Data.Warehouse.for.Computer.Vision||W22..Data..Engineering..Machine.Learning..SaaS
+AiSupervision..Mannheim,.Germany||The.operating.system.for.factory.production..lines||W22
+Phoenix.Hydrogen..Berkeley,.CA,.USA||First.commodity.marketplace.for.hydrogen||W22..Climate..ClimateTech..Energy.Storage..Hydrogen.Energy..Marketplace
+Aigis..Jakarta,.Indonesia||Indonesian.digital.health.insurance.provider||W22..Health.Insurance..Telehealth..Fintech..Insurance
+Flike..San.Francisco,.CA,.USA||Effortlessly.Embed.Cutting-Edge.AI.Into.Your..Apps||W22..Machine.Learning..Artifical.Intelligence
+Alima..Mexico.City,.CDMX,.Mexico||Produce.procurement.made.easy||W22..B2B..Logistics
+Vecindario..Medellín,.Medellin,.Antioquia,.Colombia||We.make.it.easier.for.real.estate.to.sell.properties..and.mortgages||W22..Proptech..SaaS..Fintech
+Karate.Labs..Wilmington,.DE,.USA||Open-core.solution.unifying.API.&.UI.test..automation||W22..Developer.Tools..SaaS..API
+HippoBuild..Bogotá,.Bogota,.Colombia||The.Operating.System.of.the.construction..industry||W22
+Pantore..São.Paulo,.State.of.São.Paulo,.Brazil||Platform.for.restaurants.to.order.groceries.in..Brazil||W22..Marketplace..Foodtech
+beU.delivery..Addis.Ababa,.Ethiopia||Food.delivery.service.in.Africa||W22..Foodtech..Delivery..Logistics
+GAVEL..Berlin,.Germany||Live.shopping.marketplace||W22..Marketplace..Community..E-commerce
+Cofactr..New.York,.NY,.USA||The.automated.electronics.supply.chain.platform.for..hardware.teams||W22..Hardware..Logistics..B2B
+SixWheel..San.Mateo,.CA,.USA||Make.diesel.semi.trucks.hybrid-electric||W22..Climate..Electric.Vehicles..Logistics
+KorrAI..Halifax.Regional.Municipality,.NS,.Canada||Digital.twins.for.the.natural.resources..sector||W22..Artifical.Intelligence..Climate
+Pina.Earth..Munich,.Germany||Unlocking.carbon.markets.for.European.forest..owners||W22
+Beyond.Aero..Toulouse,.France||Zero-emission.private.aircraft.using..hydrogen-electric.propulsion||W22..Airplanes..Climate..Hydrogen.Energy..Air.Taxis..Electric.Vehicles
+Realize..New.York,.NY,.USA||Connect.investment.accounts.to.your.app||W22..Investing..Fintech..API..Developer.Tools
+Origami.Therapeutics,.Inc..San.Diego,.CA,.USA||Oral.drugs.to.halt.neurodegeneration||W22..Biotech..Therapeutics..Drug.discovery
+Cinapse..Los.Angeles,.CA,.USA||The.Operating.System.of.Hollywood||W22..B2B..Entertainment..Productivity..SaaS..Enterprise
+AirMyne..Berkeley,.CA,.USA||CO2.removal.from.air.at.industrial.scale||W22..Carbon.Capture.and.Removal..Climate..Hardware..Hard.Tech
+CloudEagle.ai..Palo.Alto,.CA,.USA||SaaS.Research.and.Procurement.Platform||W22..SaaS..Artifical.Intelligence..Productivity
+Mooji.Meats..Baltimore,.MD,.USA||Enabling.the.next.generation.of.alternative..meats||W22..Climate..Cultured.Meat..Clean.Meat
+Poko..Singapore||Replace.Traditional.Companies.with.DAOs..Globally||W22..Crypto./.Web3..DAO..Developer.Tools..NFT..Community
+GoSats..Bengaluru,.Karnataka,.India||GoSats.helps.you.earn.free.bitcoin.when.you.shop.in..India||W22..DeFi..Crypto./.Web3..Fintech..Payments..E-commerce
+Glocally..Munich,.Germany||The.last.mile.delivery.service.for.e-commerce..businesses.in.Europe||W22..Logistics..Retail..E-commerce
+Deall.Jobs..Jakarta,.Indonesia||Career.portal,.revolutionized||W22..Recruiting..HR.Tech..B2B..SaaS
+Impossible.Mining..San.Jose,.CA,.USA||Underwater.robotic.vehicles.that.collect.battery..metals.responsibly||W22..Robotics..Climate..Electric.Vehicles
+Trusty..San.Francisco,.CA,.USA||Private.MLS.for.off-market.real.estate||W22..Proptech..Real.Estate..Marketplace
+Syncware||Helping.warehouses.optimize.operations.with.AI||W22..Warehouse.Management.Tech..Artifical.Intelligence..IoT..SaaS..B2B
+TAI..San.Francisco,.CA,.USA||Control.All.of.Your.Investments.from.a.Single..App||W22..Consumer..Investing..Fintech
+Circular..Singapore||Subscription.consumer.electronics.for.Asia||W22..Consumer..Marketplace..Fintech..E-commerce
+Powerhouse.AI..Singapore||Automating.warehouse.inventory.checks,.with.a..phone||W22..Warehouse.Management.Tech..SaaS..Logistics
+HelloGuru..San.Francisco,.CA,.USA||Sync.data.from.data.warehouses.to.business..systems||W22..Data..Engineering..SaaS
+Terrace||Los.Angeles,.CA,.USA||Institutional-Grade.Trading.Solutions.for.DeFi||S22||Fintech||SaaS||DeFi||Crypto./.Web3
+Dev.Tools||San.Francisco,.CA,.USA||We.help.engineers.not.fix.broken.&.flaky.UI.tests||S22||Artifical.Intelligence||Developer.Tools||B2B||Productivity
+AccessOwl||Berlin,.Germany||Access.Management.for.SaaS.applications||S22||SaaS||B2B||Compliance
+Cone||Hyderabad,.Telangana,.India||Modern.finance.and.accounting.platform.for.business||S22||Fintech||SaaS||B2B
+Kamion||Ä°stanbul,.Turkey||Uber.for.Trucks.for.the.Turkish.Market||S22||Digital.Freight.Brokerage||B2B||Supply.Chain||Transportation
+Lancey||Toronto,.ON,.Canada||Helping.companies.build.great.demos||S22||SaaS||B2B||Sales||Enterprise
+Relevium||Galway,.Ireland||Develops.peptide.gel.based.biotherapeutics.for.painful.disorders||S22||Biotech||Healthcare||Therapeutics||Drug.discovery||Medical.Devices
+Krave.Mart||Karachi.City,.Sindh,.Pakistan||Your.daily.needs,.from.essentials.to.everything||S22||Grocery||Delivery||Consumer||E-commerce||Logistics
+Drahim.ðŸ’°||Riyadh.Saudi.Arabia||Meaningful.spending.insights.with.auto-investing||S22||Fintech||Investing||Analytics
+Polymer||San.Francisco,.CA,.USA||Optimal.prices,.revealed.by.real.customers||S22||SaaS||B2B||E-commerce||Enterprise
+UpLink||Palm.Beach.Gardens,.FL,.USA||Manage.Document.Requests.at.Scale||S22||SaaS||Documents||B2B||Collaboration||Productivity
+Drip||SÃ£o.Paulo,.State.of.SÃ£o.Paulo,.Brazil||We.help.Brazilians.shop.in.a.smarter.way||S22||Payments||Fintech||Consumer||B2B||Marketplace
+HOMLI||New.York,.NY,.USA||Sell,.rent,.and.buy.real.estate.in.Europe||S22
+Patika||Nairobi,.Kenya||Simple.Receivable.Automation.&.Payments.for.Africaâ€™s.Small.Businesses||S22||Fintech||B2B||Neobank
+Relate||San.Francisco,.CA,.USA||Simple.sales.CRM.for.startups.and.SMBs||S22||SaaS||Sales||B2B
+Relay||Salt.Lake.City,.UT,.USA||Peer.support.groups.to.overcome.addiction||S22||Mental.Health.Tech||Consumer||Health.Tech||Digital.Health
+Lamin.Labs||Munich,.Germany||Data.&.analysis.management.for.computational.biology||S22||Machine.Learning||Biotech||Data.Engineering
+Rampay||Global.payment.gateway.to.buy.and.sell.crypto.with.fiat||S22||Fintech||SaaS||Payments||DeFi||Crypto./.Web3
+Ruffo||San.Francisco,.CA,.USA||Cross-border.real.estate.transactions.made.easy||S22||Fintech||Documents||Proptech||LegalTech
+Ultimate.Tournament||Wilmington,.DE,.USA||Skill-based.online.arcade.where.you.play.and.compete.for.real.money||S22||Gaming
+Metriport||San.Francisco,.CA,.USA||Track.anything.and.gain.insights.into.your.health,.fitness,.and.more||S22||Artifical.Intelligence||Mental.Health.Tech||Fitness||Health.Tech||Digital.Health
+Cambio||Chicago,.IL,.USA||Credit.rebuilding.made.simple.and.affordable||S22||Fintech||Consumer
+Rampp.xyz||Los.Angeles,.CA,.USA||Launch.and.scale.an.NFT.community.without.code||S22||NFT||Crypto./.Web3||Creator.Economy
+Peoplebox||San.Francisco,.CA,.USA||Next-gen.OKR.&.Performance.Management.tool.for.hyper-growth.Startups||S22||SaaS||HR.Tech||B2B
+Zoltar.Labs||Mountain.View,.CA,.USA||Smart.contract.testing.and.deployment.made.faster||S22||Developer.Tools||Crypto./.Web3
+Shipmates||Makati,.Metro.Manila,.Philippines||Courier.aggregator.for.ecommerce.channels||S22
+Sytex||CÃ³rdoba,.Cordoba,.Argentina||Team.collaboration.platform.for.efficient.telecom.network.deployments||S22
+Provision||Toronto,.ON,.Canada||Document.intelligence.platform.for.the.construction.industry||S22||Machine.Learning||Documents||Construction||NLP||Productivity
+Pulppo||Mexico.City,.CDMX,.Mexico||We.are.empowering.brokers.to.improve.how.they.sell.homes||S22||Proptech||Real.Estate
+Typewise||ZÃ¼rich,.Switzerland||Boosting.customer.service.and.sales.productivity.by.2-3x||S22||Artifical.Intelligence||Machine.Learning||B2B||API||Productivity
+Ajourney||Singapore||Productivity.and.people.management.tool.for.managers||S22||SaaS||B2B||HR.Tech||Productivity
+Payload.CMS||Grand.Rapids,.MI,.USA||Developer-First.Headless.CMS.and.Application.Framework||S22||Developer.Tools||API||Open.Source
+Hello.Cognition||New.York,.NY,.USA||Next-generation.search.engine.for.software.developers||S22||Artifical.Intelligence||Generative.AI||Consumer
+Maverick.Bioworks||San.Francisco,.CA,.USA||Developing.custom.enzymes.for.industrial.&.manufacturing.partners||S22||Biotech||Genomics
+Apply.Design||Tel.Aviv-Yafo,.Israel||Automatically.create.amazing.property.listings||S22||Machine.Learning||SaaS||Computer.Vision||Real.Estate||Proptech
+Windmill||Paris,.France||Developer.platform.to.build.internal.apps.from.minimal.scripts||S22||B2B
+Disclo||Austin,.TX,.USA||Health.disclosure.and.accommodation.management.platform||S22||HR.Tech||Human.Resources||Compliance
+Tranch||London,.UK||Buy.Now.Pay.Later.for.B2B.businesses||S22||Fintech||SaaS
+Sunlight||Tel.Aviv-Yafo,.Israel||Plaid.for.the.Creator.Economy||S22||Fintech||B2B||API||Creator.Economy
+Novig||New.York,.NY,.USA||The.first.commission-free,.high-frequency.sports.betting.exchange||S22||Marketplace||Sports.Tech||Gaming
+NFT.Access||New.York,.NY,.USA||NFT.Event.Ticketing||S22||Crypto./.Web3||NFT
+Boostly||Orem,.UT,.USA||Automated.text.marketing.&.feedback.software.for.restaurants||S22||SaaS||B2B||Foodtech||Food.Tech
+BlueHill.Payments||San.Francisco,.CA,.USA||Expanding.Payment.Flexibility.and.Lowering.Rates.for.Merchants||S22||Payments||B2B||Fintech||SaaS||Analytics
+RootFi||Bengaluru,.Karnataka,.India||Operating.System.for.lending||S22||SaaS||Fintech||Banking.as.a.Service
+Fetii||Austin,.TX,.USA||Group.Rideshare.Platform||S22||Transportation||SaaS
+Paigo||San.Francisco,.CA,.USA||Intelligent.Billing.for.Data,.Infrastructure.and.Platform||S22||SaaS||Enterprise||Fintech
+Kapstar||Blumenau,.State.of.Santa.Catarina,.Brazil||Cross-Border.Payments||S22||Fintech||Payments||Crypto./.Web3
+TrueBiz||New.York,.NY,.USA||Verify.businesses.for.compliance.and.risk||S22||B2B||Fintech||Neobank||Identity||Regtech
+Alterya||Tel.Aviv-Yafo,.Israel||Plaid.for.DeFi||S22||Crypto./.Web3||Fintech||API||Analytics||SaaS
+erad||Riyadh.Saudi.Arabia||Growth.funding.for.online.businesses.in.the.Middle.East||S22
+Devyce||London,.UK||The.hybrid.phone.system.for.the.future.of.work||S22||SaaS||B2B||Messaging
+Tailor||Tokyo,.Japan||Headless.ERP.for.enterprises||S22||API||B2B||SaaS||Developer.Tools||Enterprise
+Levo.Financial||Salt.Lake.City,.UT,.USA||Spendable.Investment.Account||S22||Fintech||Consumer
+Stackup||Los.Angeles,.CA,.USA||A.wallet.that.makes.crypto.effortless||S22||Crypto./.Web3||Fintech
+Two.Dots||New.York,.NY,.USA||Universal.income.and.employment.verification||S22||Artifical.Intelligence||B2B||Fintech||Proptech
+PayO||Bengaluru,.Karnataka,.India||Mobile-first.Quickbooks.&.Square.for.Indian.SMEs||S22||Fintech||Neobank||Payments||SaaS||B2B
+Paces||New.York,.NY,.USA||Data.and.analytics.for.profitable.green.infrastructure||S22||Climate||Machine.Learning||Proptech||Energy
+Clinikally||Gurugram,.Haryana,.India||Telehealth.platform.&.Rx.grade.products.for.skin.&.hair.care.that.work||S22||Consumer.Health.Services||Telehealth||E-commerce||Digital.Health
+Coinbooks||San.Francisco,.CA,.USA||Intuit.for.Crypto.companies||S22||Fintech||Crypto./.Web3
+Albiware.Inc||Downers.Grove,.IL,.USA||Making.technology.simple.and.accessible.for.home.service.contractors||S22||Construction||Proptech
+SimpleHash..San.Francisco,.CA,.USA||Multi-chain.NFT.API||W22..Developer.Tools..SaaS..Crypto./.Web3..NFT
+BBy..New.York,.NY,.USA||BBy.powders.breast.milk.that's.immunologically..active.&.lasts.6.months||W22..Health.Tech..Healthcare..Medical.Devices
+WhiteLab.Genomics..Paris,.France||Unleashing.the.potential.of.DNA.and.RNA.based..therapies.using.AI||W22..Genomics..Artifical.Intelligence..Gene.Therapy
+TradeX..Gurugram,.Haryana,.India||Exchange.to.trade.on.future.events||W22..Consumer..Gaming..Fintech
+Massdriver..Los.Angeles,.CA,.USA||Deploy.secure,.scalable.cloud.infrastructure.in..minutes.not.days||W22..Developer.Tools..DevSecOps..Kubernetes
+Reality.Defender..New.York,.NY,.USA||Enterprise.Deepfake.Detection||W22..Security..Privacy..Deepfake.Detection..Artifical.Intelligence..SaaS
+Lizza..Guadalajara,.Jalisco,.Mexico||Meesho.for.Latin.America||W22..Marketplace..SaaS..E-commerce
+Mono..Bogotá,.Bogota,.Colombia||A.bank.account.that.integrates.LatAm.SMEs'.finances..and.operations||W22..Fintech..Neobank
+NFTScoring..New.York,.NY,.USA||NFT.Trading.Platform||W22..NFT
+CrediBook..Jakarta,.Indonesia||Faire.for.Indonesia||W22..E-commerce..B2B
+Remi.Labs..Salt.Lake.City,.UT,.USA||Everything.a.business.needs.to.launch.their.own..NFTs||W22..Crypto./.Web3..NFT
+Fresh.Factory..Jakarta,.Indonesia||Smart.Cold.Chain.Fulfillment.Platform||W22..Logistics..Warehouse.Management.Tech..B2B
+Onboard.io..Detroit,.MI,.USA||Manage.&.automate.customer.onboarding.and..implementation||W22..Customer.Success..B2B..SaaS..Collaboration..Productivity
+Seis..San.Francisco,.CA,.USA||Banking.100%.in.Spanish.for.the.44.million.US..Spanish.speakers||W22..Fintech..Neobank
+Bananas..Jakarta,.Indonesia||Groceries.delivered.in.10.mins||W22..Grocery..Delivery..E-commerce
+Eventual..San.Francisco,.CA,.USA||Data.Warehouse.for.Computer.Vision||W22..Data..Engineering..Machine.Learning..SaaS
+AiSupervision..Mannheim,.Germany||The.operating.system.for.factory.production..lines||W22
+Phoenix.Hydrogen..Berkeley,.CA,.USA||First.commodity.marketplace.for.hydrogen||W22..Climate..ClimateTech..Energy.Storage..Hydrogen.Energy..Marketplace
+Aigis..Jakarta,.Indonesia||Indonesian.digital.health.insurance.provider||W22..Health.Insurance..Telehealth..Fintech..Insurance
+Flike..San.Francisco,.CA,.USA||Effortlessly.Embed.Cutting-Edge.AI.Into.Your..Apps||W22..Machine.Learning..Artifical.Intelligence
+Alima..Mexico.City,.CDMX,.Mexico||Produce.procurement.made.easy||W22..B2B..Logistics
+Vecindario..Medellín,.Medellin,.Antioquia,.Colombia||We.make.it.easier.for.real.estate.to.sell.properties..and.mortgages||W22..Proptech..SaaS..Fintech
+Karate.Labs..Wilmington,.DE,.USA||Open-core.solution.unifying.API.&.UI.test..automation||W22..Developer.Tools..SaaS..API
+HippoBuild..Bogotá,.Bogota,.Colombia||The.Operating.System.of.the.construction..industry||W22
+Pantore..São.Paulo,.State.of.São.Paulo,.Brazil||Platform.for.restaurants.to.order.groceries.in..Brazil||W22..Marketplace..Foodtech
+beU.delivery..Addis.Ababa,.Ethiopia||Food.delivery.service.in.Africa||W22..Foodtech..Delivery..Logistics
+GAVEL..Berlin,.Germany||Live.shopping.marketplace||W22..Marketplace..Community..E-commerce
+Cofactr..New.York,.NY,.USA||The.automated.electronics.supply.chain.platform.for..hardware.teams||W22..Hardware..Logistics..B2B
+SixWheel..San.Mateo,.CA,.USA||Make.diesel.semi.trucks.hybrid-electric||W22..Climate..Electric.Vehicles..Logistics
+KorrAI..Halifax.Regional.Municipality,.NS,.Canada||Digital.twins.for.the.natural.resources..sector||W22..Artifical.Intelligence..Climate
+Pina.Earth..Munich,.Germany||Unlocking.carbon.markets.for.European.forest..owners||W22
+Beyond.Aero..Toulouse,.France||Zero-emission.private.aircraft.using..hydrogen-electric.propulsion||W22..Airplanes..Climate..Hydrogen.Energy..Air.Taxis..Electric.Vehicles
+Realize..New.York,.NY,.USA||Connect.investment.accounts.to.your.app||W22..Investing..Fintech..API..Developer.Tools
+Origami.Therapeutics,.Inc..San.Diego,.CA,.USA||Oral.drugs.to.halt.neurodegeneration||W22..Biotech..Therapeutics..Drug.discovery
+Cinapse..Los.Angeles,.CA,.USA||The.Operating.System.of.Hollywood||W22..B2B..Entertainment..Productivity..SaaS..Enterprise
+AirMyne..Berkeley,.CA,.USA||CO2.removal.from.air.at.industrial.scale||W22..Carbon.Capture.and.Removal..Climate..Hardware..Hard.Tech
+CloudEagle.ai..Palo.Alto,.CA,.USA||SaaS.Research.and.Procurement.Platform||W22..SaaS..Artifical.Intelligence..Productivity
+Mooji.Meats..Baltimore,.MD,.USA||Enabling.the.next.generation.of.alternative..meats||W22..Climate..Cultured.Meat..Clean.Meat
+Poko..Singapore||Replace.Traditional.Companies.with.DAOs..Globally||W22..Crypto./.Web3..DAO..Developer.Tools..NFT..Community
+GoSats..Bengaluru,.Karnataka,.India||GoSats.helps.you.earn.free.bitcoin.when.you.shop.in..India||W22..DeFi..Crypto./.Web3..Fintech..Payments..E-commerce
+Glocally..Munich,.Germany||The.last.mile.delivery.service.for.e-commerce..businesses.in.Europe||W22..Logistics..Retail..E-commerce
+Deall.Jobs..Jakarta,.Indonesia||Career.portal,.revolutionized||W22..Recruiting..HR.Tech..B2B..SaaS
+Impossible.Mining..San.Jose,.CA,.USA||Underwater.robotic.vehicles.that.collect.battery..metals.responsibly||W22..Robotics..Climate..Electric.Vehicles
+Trusty..San.Francisco,.CA,.USA||Private.MLS.for.off-market.real.estate||W22..Proptech..Real.Estate..Marketplace
+Syncware||Helping.warehouses.optimize.operations.with.AI||W22..Warehouse.Management.Tech..Artifical.Intelligence..IoT..SaaS..B2B
+TAI..San.Francisco,.CA,.USA||Control.All.of.Your.Investments.from.a.Single..App||W22..Consumer..Investing..Fintech
+Circular..Singapore||Subscription.consumer.electronics.for.Asia||W22..Consumer..Marketplace..Fintech..E-commerce
+Powerhouse.AI..Singapore||Automating.warehouse.inventory.checks,.with.a..phone||W22..Warehouse.Management.Tech..SaaS..Logistics
+HelloGuru..San.Francisco,.CA,.USA||Sync.data.from.data.warehouses.to.business..systems||W22..Data..Engineering..SaaS
+$$Terrace$$Los.Angeles,.CA,.USA$$..Institutional-Grade.Trading.Solutions.for.DeFi$$$$$$.S22$$..Fintech$$..SaaS$$..DeFi$$..Crypto./.Web3$$.
+$$Dev.Tools$$San.Francisco,.CA,.USA$$..We.help.engineers.not.fix.broken.&.flaky.UI.tests$$$$$$.S22$$..Artifical.Intelligence$$..Developer.Tools$$..B2B$$..Productivity$$.
+$$AccessOwl$$Berlin,.Germany$$..Access.Management.for.SaaS.applications$$$$$$.S22$$..SaaS$$..B2B$$..Compliance$$.
+$$Cone$$Hyderabad,.Telangana,.India$$..Modern.finance.and.accounting.platform.for.business$$$$$$.S22$$..Fintech$$..SaaS$$..B2B$$.
+$$Kamion$$Ä°stanbul,.Turkey$$..Uber.for.Trucks.for.the.Turkish.Market$$$$$$.S22$$..Digital.Freight.Brokerage$$..B2B$$..Supply.Chain$$..Transportation$$.
+$$Lancey$$Toronto,.ON,.Canada$$..Helping.companies.build.great.demos$$$$$$.S22$$..SaaS$$..B2B$$..Sales$$..Enterprise$$.
+$$Relevium$$Galway,.Ireland$$..Develops.peptide.gel.based.biotherapeutics.for.painful.disorders$$$$$$.S22$$..Biotech$$..Healthcare$$..Therapeutics$$..Drug.discovery$$..Medical.Devices$$.
+$$Krave.Mart$$Karachi.City,.Sindh,.Pakistan$$..Your.daily.needs,.from.essentials.to.everything$$$$$$.S22$$..Grocery$$..Delivery$$..Consumer$$..E-commerce$$..Logistics$$.
+$$Drahim.ðŸ’°$$Riyadh.Saudi.Arabia$$..Meaningful.spending.insights.with.auto-investing$$$$$$.S22$$..Fintech$$..Investing$$..Analytics$$.
+$$Polymer$$San.Francisco,.CA,.USA$$..Optimal.prices,.revealed.by.real.customers$$$$$$.S22$$..SaaS$$..B2B$$..E-commerce$$..Enterprise$$.
+$$UpLink$$Palm.Beach.Gardens,.FL,.USA$$..Manage.Document.Requests.at.Scale$$$$$$.S22$$..SaaS$$..Documents$$..B2B$$..Collaboration$$..Productivity$$.
+$$Drip$$SÃ£o.Paulo,.State.of.SÃ£o.Paulo,.Brazil$$..We.help.Brazilians.shop.in.a.smarter.way$$$$$$.S22$$..Payments$$..Fintech$$..Consumer$$..B2B$$..Marketplace$$.
+$$HOMLI$$New.York,.NY,.USA$$..Sell,.rent,.and.buy.real.estate.in.Europe$$$$$$.S22$$.
+$$Patika$$Nairobi,.Kenya$$..Simple.Receivable.Automation.&.Payments.for.Africaâ€™s.Small.Businesses$$$$$$.S22$$..Fintech$$..B2B$$..Neobank$$.
+$$Relate$$San.Francisco,.CA,.USA$$..Simple.sales.CRM.for.startups.and.SMBs$$$$$$.S22$$..SaaS$$..Sales$$..B2B$$.
+$$Relay$$Salt.Lake.City,.UT,.USA$$..Peer.support.groups.to.overcome.addiction$$$$$$.S22$$..Mental.Health.Tech$$..Consumer$$..Health.Tech$$..Digital.Health$$.
+$$Lamin.Labs$$Munich,.Germany$$..Data.&.analysis.management.for.computational.biology$$$$$$.S22$$..Machine.Learning$$..Biotech$$..Data.Engineering$$.
+$$Rampay$$$$.Global.payment.gateway.to.buy.and.sell.crypto.with.fiat$$$$$$.S22$$..Fintech$$..SaaS$$..Payments$$..DeFi$$..Crypto./.Web3$$.
+$$Ruffo$$San.Francisco,.CA,.USA$$..Cross-border.real.estate.transactions.made.easy$$$$$$.S22$$..Fintech$$..Documents$$..Proptech$$..LegalTech$$.
+$$Ultimate.Tournament$$Wilmington,.DE,.USA$$..Skill-based.online.arcade.where.you.play.and.compete.for.real.money$$$$$$.S22$$..Gaming$$.
+$$Metriport$$San.Francisco,.CA,.USA$$..Track.anything.and.gain.insights.into.your.health,.fitness,.and.more$$$$$$.S22$$..Artifical.Intelligence$$..Mental.Health.Tech$$..Fitness$$..Health.Tech$$..Digital.Health$$.
+$$Cambio$$Chicago,.IL,.USA$$..Credit.rebuilding.made.simple.and.affordable$$$$$$.S22$$..Fintech$$..Consumer$$.
+$$Rampp.xyz$$Los.Angeles,.CA,.USA$$..Launch.and.scale.an.NFT.community.without.code$$$$$$.S22$$..NFT$$..Crypto./.Web3$$..Creator.Economy$$.
+$$Peoplebox$$San.Francisco,.CA,.USA$$..Next-gen.OKR.&.Performance.Management.tool.for.hyper-growth.Startups$$$$$$.S22$$..SaaS$$..HR.Tech$$..B2B$$.
+$$Zoltar.Labs$$Mountain.View,.CA,.USA$$..Smart.contract.testing.and.deployment.made.faster$$$$$$.S22$$..Developer.Tools$$..Crypto./.Web3$$.
+$$Shipmates$$Makati,.Metro.Manila,.Philippines$$..Courier.aggregator.for.ecommerce.channels$$$$$$.S22$$.
+$$Sytex$$CÃ³rdoba,.Cordoba,.Argentina$$..Team.collaboration.platform.for.efficient.telecom.network.deployments$$$$$$.S22$$.
+$$Provision$$Toronto,.ON,.Canada$$..Document.intelligence.platform.for.the.construction.industry$$$$$$.S22$$..Machine.Learning$$..Documents$$..Construction$$..NLP$$..Productivity$$.
+$$Pulppo$$Mexico.City,.CDMX,.Mexico$$..We.are.empowering.brokers.to.improve.how.they.sell.homes$$$$$$.S22$$..Proptech$$..Real.Estate$$.
+$$Typewise$$ZÃ¼rich,.Switzerland$$..Boosting.customer.service.and.sales.productivity.by.2-3x$$$$$$.S22$$..Artifical.Intelligence$$..Machine.Learning$$..B2B$$..API$$..Productivity$$.
+$$Ajourney$$Singapore$$..Productivity.and.people.management.tool.for.managers$$$$$$.S22$$..SaaS$$..B2B$$..HR.Tech$$..Productivity$$.
+$$Payload.CMS$$Grand.Rapids,.MI,.USA$$..Developer-First.Headless.CMS.and.Application.Framework$$$$$$.S22$$..Developer.Tools$$..API$$..Open.Source$$.
+$$Hello.Cognition$$New.York,.NY,.USA$$..Next-generation.search.engine.for.software.developers$$$$$$.S22$$..Artifical.Intelligence$$..Generative.AI$$..Consumer$$.
+$$Maverick.Bioworks$$San.Francisco,.CA,.USA$$..Developing.custom.enzymes.for.industrial.&.manufacturing.partners$$$$$$.S22$$..Biotech$$..Genomics$$.
+$$Apply.Design$$Tel.Aviv-Yafo,.Israel$$..Automatically.create.amazing.property.listings$$$$$$.S22$$..Machine.Learning$$..SaaS$$..Computer.Vision$$..Real.Estate$$..Proptech$$.
+$$Windmill$$Paris,.France$$..Developer.platform.to.build.internal.apps.from.minimal.scripts$$$$$$.S22$$..B2B$$.
+$$Disclo$$Austin,.TX,.USA$$..Health.disclosure.and.accommodation.management.platform$$$$$$.S22$$..HR.Tech$$..Human.Resources$$..Compliance$$.
+$$Tranch$$London,.UK$$..Buy.Now.Pay.Later.for.B2B.businesses$$$$$$.S22$$..Fintech$$..SaaS$$.
+$$Sunlight$$Tel.Aviv-Yafo,.Israel$$..Plaid.for.the.Creator.Economy$$$$$$.S22$$..Fintech$$..B2B$$..API$$..Creator.Economy$$.
+$$Novig$$New.York,.NY,.USA$$..The.first.commission-free,.high-frequency.sports.betting.exchange$$$$$$.S22$$..Marketplace$$..Sports.Tech$$..Gaming$$.
+$$NFT.Access$$New.York,.NY,.USA$$..NFT.Event.Ticketing$$$$$$.S22$$..Crypto./.Web3$$..NFT$$.
+$$Boostly$$Orem,.UT,.USA$$..Automated.text.marketing.&.feedback.software.for.restaurants$$$$$$.S22$$..SaaS$$..B2B$$..Foodtech$$..Food.Tech$$.
+$$BlueHill.Payments$$San.Francisco,.CA,.USA$$..Expanding.Payment.Flexibility.and.Lowering.Rates.for.Merchants$$$$$$.S22$$..Payments$$..B2B$$..Fintech$$..SaaS$$..Analytics$$.
+$$RootFi$$Bengaluru,.Karnataka,.India$$..Operating.System.for.lending$$$$$$.S22$$..SaaS$$..Fintech$$..Banking.as.a.Service$$.
+$$Fetii$$Austin,.TX,.USA$$..Group.Rideshare.Platform$$$$$$.S22$$..Transportation$$..SaaS$$.
+$$Paigo$$San.Francisco,.CA,.USA$$..Intelligent.Billing.for.Data,.Infrastructure.and.Platform$$$$$$.S22$$..SaaS$$..Enterprise$$..Fintech$$.
+$$Kapstar$$Blumenau,.State.of.Santa.Catarina,.Brazil$$..Cross-Border.Payments$$$$$$.S22$$..Fintech$$..Payments$$..Crypto./.Web3$$.
+$$TrueBiz$$New.York,.NY,.USA$$..Verify.businesses.for.compliance.and.risk$$$$$$.S22$$..B2B$$..Fintech$$..Neobank$$..Identity$$..Regtech$$.
+$$Alterya$$Tel.Aviv-Yafo,.Israel$$..Plaid.for.DeFi$$$$$$.S22$$..Crypto./.Web3$$..Fintech$$..API$$..Analytics$$..SaaS$$.
+$$erad$$Riyadh.Saudi.Arabia$$..Growth.funding.for.online.businesses.in.the.Middle.East$$$$$$.S22$$.
+$$Devyce$$London,.UK$$..The.hybrid.phone.system.for.the.future.of.work$$$$$$.S22$$..SaaS$$..B2B$$..Messaging$$.
+$$Tailor$$Tokyo,.Japan$$..Headless.ERP.for.enterprises$$$$$$.S22$$..API$$..B2B$$..SaaS$$..Developer.Tools$$..Enterprise$$.
+$$Levo.Financial$$Salt.Lake.City,.UT,.USA$$..Spendable.Investment.Account$$$$$$.S22$$..Fintech$$..Consumer$$.
+$$Stackup$$Los.Angeles,.CA,.USA$$..A.wallet.that.makes.crypto.effortless$$$$$$.S22$$..Crypto./.Web3$$..Fintech$$.
+$$Two.Dots$$New.York,.NY,.USA$$..Universal.income.and.employment.verification$$$$$$.S22$$..Artifical.Intelligence$$..B2B$$..Fintech$$..Proptech$$.
+$$PayO$$Bengaluru,.Karnataka,.India$$..Mobile-first.Quickbooks.&.Square.for.Indian.SMEs$$$$$$.S22$$..Fintech$$..Neobank$$..Payments$$..SaaS$$..B2B$$.
+$$Paces$$New.York,.NY,.USA$$..Data.and.analytics.for.profitable.green.infrastructure$$$$$$.S22$$..Climate$$..Machine.Learning$$..Proptech$$..Energy$$.
+$$Clinikally$$Gurugram,.Haryana,.India$$..Telehealth.platform.&.Rx.grade.products.for.skin.&.hair.care.that.work$$$$$$.S22$$..Consumer.Health.Services$$..Telehealth$$..E-commerce$$..Digital.Health$$.
+$$Coinbooks$$San.Francisco,.CA,.USA$$..Intuit.for.Crypto.companies$$$$$$.S22$$..Fintech$$..Crypto./.Web3$$.
+$$Albiware.Inc$$Downers.Grove,.IL,.USA$$..Making.technology.simple.and.accessible.for.home.service.contractors$$$$$$.S22$$..Construction$$..Proptech$$.
+..SimpleHash..San.Francisco,.CA,.USA$$Multi-chain.NFT.API$$$$W22..Developer.Tools..SaaS..Crypto./.Web3..NFT..
+..BBy..New.York,.NY,.USA$$BBy.powders.breast.milk.that's.immunologically..active.&.lasts.6.months$$$$W22..Health.Tech..Healthcare..Medical.Devices..
+..WhiteLab.Genomics..Paris,.France$$Unleashing.the.potential.of.DNA.and.RNA.based..therapies.using.AI$$$$W22..Genomics..Artifical.Intelligence..Gene.Therapy..
+..TradeX..Gurugram,.Haryana,.India$$Exchange.to.trade.on.future.events$$$$W22..Consumer..Gaming..Fintech..
+..Massdriver..Los.Angeles,.CA,.USA$$Deploy.secure,.scalable.cloud.infrastructure.in..minutes.not.days$$$$W22..Developer.Tools..DevSecOps..Kubernetes..
+..Reality.Defender..New.York,.NY,.USA$$Enterprise.Deepfake.Detection$$$$W22..Security..Privacy..Deepfake.Detection..Artifical.Intelligence..SaaS..
+..Lizza..Guadalajara,.Jalisco,.Mexico$$Meesho.for.Latin.America$$$$W22..Marketplace..SaaS..E-commerce..
+..Mono..Bogotá,.Bogota,.Colombia$$A.bank.account.that.integrates.LatAm.SMEs'.finances..and.operations$$$$W22..Fintech..Neobank..
+..NFTScoring..New.York,.NY,.USA$$NFT.Trading.Platform$$$$W22..NFT..
+..CrediBook..Jakarta,.Indonesia$$Faire.for.Indonesia$$$$W22..E-commerce..B2B..
+..Remi.Labs..Salt.Lake.City,.UT,.USA$$Everything.a.business.needs.to.launch.their.own..NFTs$$$$W22..Crypto./.Web3..NFT..
+..Fresh.Factory..Jakarta,.Indonesia$$Smart.Cold.Chain.Fulfillment.Platform$$$$W22..Logistics..Warehouse.Management.Tech..B2B..
+..Onboard.io..Detroit,.MI,.USA$$Manage.&.automate.customer.onboarding.and..implementation$$$$W22..Customer.Success..B2B..SaaS..Collaboration..Productivity..
+..Seis..San.Francisco,.CA,.USA$$Banking.100%.in.Spanish.for.the.44.million.US..Spanish.speakers$$$$W22..Fintech..Neobank..
+..Bananas..Jakarta,.Indonesia$$Groceries.delivered.in.10.mins$$$$W22..Grocery..Delivery..E-commerce..
+..Eventual..San.Francisco,.CA,.USA$$Data.Warehouse.for.Computer.Vision$$$$W22..Data..Engineering..Machine.Learning..SaaS..
+..AiSupervision..Mannheim,.Germany$$The.operating.system.for.factory.production..lines$$$$W22..
+..Phoenix.Hydrogen..Berkeley,.CA,.USA$$First.commodity.marketplace.for.hydrogen$$$$.W22..Climate..ClimateTech..Energy.Storage..Hydrogen.Energy..Marketplace..
+..Aigis..Jakarta,.Indonesia$$Indonesian.digital.health.insurance.provider$$$$.W22..Health.Insurance..Telehealth..Fintech..Insurance..
+..Flike..San.Francisco,.CA,.USA$$Effortlessly.Embed.Cutting-Edge.AI.Into.Your..Apps$$$$W22..Machine.Learning..Artifical.Intelligence..
+..Alima..Mexico.City,.CDMX,.Mexico$$Produce.procurement.made.easy$$$$W22..B2B..Logistics..
+..Vecindario..Medellín,.Medellin,.Antioquia,.Colombia$$We.make.it.easier.for.real.estate.to.sell.properties..and.mortgages$$$$W22..Proptech..SaaS..Fintech..
+..Karate.Labs..Wilmington,.DE,.USA$$Open-core.solution.unifying.API.&.UI.test..automation$$$$W22..Developer.Tools..SaaS..API..
+..HippoBuild..Bogotá,.Bogota,.Colombia$$The.Operating.System.of.the.construction..industry$$$$W22..
+..Pantore..São.Paulo,.State.of.São.Paulo,.Brazil$$Platform.for.restaurants.to.order.groceries.in..Brazil$$$$W22..Marketplace..Foodtech..
+..beU.delivery..Addis.Ababa,.Ethiopia$$Food.delivery.service.in.Africa$$$$W22..Foodtech..Delivery..Logistics..
+..GAVEL..Berlin,.Germany$$Live.shopping.marketplace$$$$W22..Marketplace..Community..E-commerce..
+..Cofactr..New.York,.NY,.USA$$The.automated.electronics.supply.chain.platform.for..hardware.teams$$$$W22..Hardware..Logistics..B2B..
+..SixWheel..San.Mateo,.CA,.USA$$Make.diesel.semi.trucks.hybrid-electric$$$$W22..Climate..Electric.Vehicles..Logistics..
+..KorrAI..Halifax.Regional.Municipality,.NS,.Canada$$Digital.twins.for.the.natural.resources..sector$$$$W22..Artifical.Intelligence..Climate..
+..Pina.Earth..Munich,.Germany$$Unlocking.carbon.markets.for.European.forest..owners$$$$W22..
+..Beyond.Aero..Toulouse,.France$$Zero-emission.private.aircraft.using..hydrogen-electric.propulsion$$$$W22..Airplanes..Climate..Hydrogen.Energy..Air.Taxis..Electric.Vehicles..
+..Realize..New.York,.NY,.USA$$Connect.investment.accounts.to.your.app$$$$.W22..Investing..Fintech..API..Developer.Tools..
+..Origami.Therapeutics,.Inc..San.Diego,.CA,.USA$$Oral.drugs.to.halt.neurodegeneration$$$$W22..Biotech..Therapeutics..Drug.discovery..
+..Cinapse..Los.Angeles,.CA,.USA$$The.Operating.System.of.Hollywood$$$$W22..B2B..Entertainment..Productivity..SaaS..Enterprise..
+..AirMyne..Berkeley,.CA,.USA$$CO2.removal.from.air.at.industrial.scale$$$$.W22..Carbon.Capture.and.Removal..Climate..Hardware..Hard.Tech..
+..CloudEagle.ai..Palo.Alto,.CA,.USA$$SaaS.Research.and.Procurement.Platform$$$$W22..SaaS..Artifical.Intelligence..Productivity..
+..Mooji.Meats..Baltimore,.MD,.USA$$Enabling.the.next.generation.of.alternative..meats$$$$W22..Climate..Cultured.Meat..Clean.Meat..
+..Poko..Singapore$$Replace.Traditional.Companies.with.DAOs..Globally$$$$W22..Crypto./.Web3..DAO..Developer.Tools..NFT..Community..
+..GoSats..Bengaluru,.Karnataka,.India$$GoSats.helps.you.earn.free.bitcoin.when.you.shop.in..India$$$$W22..DeFi..Crypto./.Web3..Fintech..Payments..E-commerce..
+..Glocally..Munich,.Germany$$The.last.mile.delivery.service.for.e-commerce..businesses.in.Europe$$$$W22..Logistics..Retail..E-commerce..
+..Deall.Jobs..Jakarta,.Indonesia$$Career.portal,.revolutionized$$$$W22..Recruiting..HR.Tech..B2B..SaaS..
+..Impossible.Mining..San.Jose,.CA,.USA$$Underwater.robotic.vehicles.that.collect.battery..metals.responsibly$$$$W22..Robotics..Climate..Electric.Vehicles..
+..Trusty..San.Francisco,.CA,.USA$$Private.MLS.for.off-market.real.estate$$$$W22..Proptech..Real.Estate..Marketplace..
+..Syncware$$Helping.warehouses.optimize.operations.with.AI$$$$W22..Warehouse.Management.Tech..Artifical.Intelligence..IoT..SaaS..B2B..
+..TAI..San.Francisco,.CA,.USA$$Control.All.of.Your.Investments.from.a.Single..App$$$$W22..Consumer..Investing..Fintech..
+..Circular..Singapore$$Subscription.consumer.electronics.for.Asia$$$$.W22..Consumer..Marketplace..Fintech..E-commerce..
+..Powerhouse.AI..Singapore$$Automating.warehouse.inventory.checks,.with.a..phone$$$$W22..Warehouse.Management.Tech..SaaS..Logistics..
+..HelloGuru..San.Francisco,.CA,.USA$$Sync.data.from.data.warehouses.to.business..systems$$$$W22..Data..Engineering..SaaS..
