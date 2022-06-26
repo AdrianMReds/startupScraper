@@ -1,5 +1,6 @@
 from tracemalloc import start
 from bs4 import BeautifulSoup
+from sqlalchemy import desc
 
 from startup import Startup
 
@@ -42,11 +43,23 @@ def lookWords(p:str) -> list:
     
     return lst
 
+def lotsOfSpaces(s:str) -> str:
+    counter = 0
+    lots = False
+    for i in range(len(s)):
+        if lots and s[i]==' ':
+            counter+=1
+            continue
+        if i != len(s)-1:
+            if s[i]==' ' and s[i+1]==' ':
+                lots = True
+                counter += 1
 
+    spaces = ' '*counter
+    desc = s.replace(spaces, ' ')
+    return desc
 
 class Scraper:
-
-    print(lookWords('$GoSats$Bengaluru,.Karnataka,.India.$.GoSats.helps.you.earn.free.bitcoin.when.you.shop.in$$.India$$$$$.W22$DeFi$Crypto./.Web3$Fintech$Payments$E-commerce$'))
 
     startupList = []
 
@@ -63,7 +76,6 @@ class Scraper:
         with open('batches.html', encoding='utf-8') as page:
             soup = BeautifulSoup(page, 'html.parser')
 
-            # print(soup.prettify())
             sdivs = soup.select('.right')
             info = []
 
@@ -83,7 +95,11 @@ class Scraper:
             for i in slist:
                 toadd = lookWords(i)
                 for x in range(len(toadd)):
-                    toadd[x] = toadd[x].replace(' ', '')
+                    if x != 2:
+                        toadd[x] = toadd[x].replace(' ', '')
+                    else:
+                        toadd[x] = toadd[x].replace('      ', '')
+                        toadd[x] = toadd[x].replace('  ', ' ')
                 startups.append(toadd)
 
             for s in startups:
@@ -91,10 +107,6 @@ class Scraper:
                 so.batch = s[3]
                 if len(s) > 4:
                     so.tags = s[4:]
-                print(so)
+                self.startupList.append(so)
 
-                
-                
-            # self.printList(startups, 2214)
-            #Podriamos cambiar el replace de \n para diferenciar en donde está cada sección de la startup
-            print(len(startups))
+            # print(len(startups))
