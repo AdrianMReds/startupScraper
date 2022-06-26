@@ -13,6 +13,7 @@ if __name__ == '__main__':
     fw = FileWriter('startups.csv')
 
     s.scrapeYCFromFile()
+    s.scrapeFromWeb()
     
-    fw.write(s)
+    # fw.write(s.startupList)
 

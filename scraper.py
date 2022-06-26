@@ -1,6 +1,5 @@
-from tracemalloc import start
 from bs4 import BeautifulSoup
-from sqlalchemy import desc
+import requests
 
 from startup import Startup
 
@@ -70,9 +69,8 @@ class Scraper:
         for x in range(rng):
             print('{} {}'.format(x, lst[x]))
 
-
+    #For this function I had to extract come of the code of ycombinator.com/companies manually
     def scrapeYCFromFile(self):
-
         with open('batches.html', encoding='utf-8') as page:
             soup = BeautifulSoup(page, 'html.parser')
 
@@ -108,5 +106,63 @@ class Scraper:
                 if len(s) > 4:
                     so.tags = s[4:]
                 self.startupList.append(so)
+    
+    def scrapeFromWeb(self):
+        webpage = requests.get('https://yclist.com/')
+        soup = BeautifulSoup(webpage.content, 'html.parser')
 
-            # print(len(startups))
+        strs = soup.find_all('tr')
+        info = []
+
+        for s in strs:
+            sinfo = s.get_text('$')
+            info.append(sinfo)
+
+        counter = 0
+        slist = []
+        for i in info:
+            st = i.replace('\n', '')
+            slist.append(st)
+            counter+=1
+
+        startups = []
+
+        for i in slist:
+            toadd = lookWords(i)
+            if len(toadd) < 4:
+                # print(toadd[0])
+                if toadd[1].find('http') == -1:
+                    toadd.insert(1, 'Unknown')
+                else:
+                    toadd.append('Unknown description')
+            if toadd[1].find('http') == -1:
+                toadd.insert(1, 'Unknown')
+            if toadd[3] != 'exited' and toadd[3] != 'dead':
+                toadd.insert(3, 'operating')
+            if toadd[0] == 'AudioBeta':
+                toadd[1] = 'Unknown'
+                toadd[2] = 'W06'
+                toadd[3] = 'operating'
+                toadd[4] = 'Unknown description'
+            
+            for x in range(len(toadd)):
+                if x != 4:
+                    toadd[x] = toadd[x].replace(' ', '')
+                else:
+                    toadd[x] = toadd[x].strip()
+            # print(toadd)
+            startups.append(toadd)
+
+        for s in startups:
+            so = Startup(s[0], 'Unknown', '', 'Y Combinator')
+            so.batch = s[2]
+            if len(s) > 5:
+                so.description = s[-1]
+            else:
+                so.description = s[4]
+            so.status = s[3]
+            print(so)
+            self.startupList.append(so)
+
+        
+        # self.printList(startups, 1000)

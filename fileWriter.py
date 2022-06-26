@@ -2,6 +2,7 @@ import os.path
 from scraper import Scraper
 from startup import Startup
 import csv
+import pandas
 
 class FileWriter:
 
@@ -10,12 +11,11 @@ class FileWriter:
     def __init__(self, fn) -> None:
         self.fileName = fn
 
-    def write(self, s:Scraper):
+    def write(self, s:list):
         lst = []
         d = {}
 
-        for i in s.startupList:
-            # print(i.name)
+        for i in s:
             d['Name'] = i.name
             d['Location'] = i.location
             d['Description'] = i.description
@@ -23,11 +23,9 @@ class FileWriter:
             d['Batch'] = i.batch
             d['Status'] = i.status
             lst.append(d)
-            # print(d)
             d = {}
         
         fields = ['Name', 'Location', 'Description', 'Accelerator', 'Batch', 'Status']
-        # print(lst)
         with open(self.fileName, 'w', encoding='utf-8', newline='') as startupFile:
             writer = csv.DictWriter(startupFile, fieldnames=fields)
 
