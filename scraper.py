@@ -107,7 +107,7 @@ class Scraper:
                     so.tags = s[4:]
                 self.startupList.append(so)
     
-    def scrapeFromWeb(self):
+    def scrapeYCFromWeb(self):
         webpage = requests.get('https://yclist.com/')
         soup = BeautifulSoup(webpage.content, 'html.parser')
 
@@ -130,7 +130,6 @@ class Scraper:
         for i in slist:
             toadd = lookWords(i)
             if len(toadd) < 4:
-                # print(toadd[0])
                 if toadd[1].find('http') == -1:
                     toadd.insert(1, 'Unknown')
                 else:
@@ -150,7 +149,6 @@ class Scraper:
                     toadd[x] = toadd[x].replace(' ', '')
                 else:
                     toadd[x] = toadd[x].strip()
-            # print(toadd)
             startups.append(toadd)
 
         for s in startups:
@@ -161,7 +159,6 @@ class Scraper:
             else:
                 so.description = s[4]
             so.status = s[3]
-            print(so)
             self.startupList.append(so)
 
         

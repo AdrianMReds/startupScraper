@@ -22,10 +22,11 @@ class FileWriter:
             d['Accelerator'] = i.accelerator
             d['Batch'] = i.batch
             d['Status'] = i.status
+            d['Webpage'] = i.webpage
             lst.append(d)
             d = {}
         
-        fields = ['Name', 'Location', 'Description', 'Accelerator', 'Batch', 'Status']
+        fields = ['Name', 'Location', 'Description', 'Accelerator', 'Batch', 'Status', 'Webpage']
         with open(self.fileName, 'w', encoding='utf-8', newline='') as startupFile:
             writer = csv.DictWriter(startupFile, fieldnames=fields)
 
